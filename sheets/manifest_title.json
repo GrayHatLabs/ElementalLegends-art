@@ -1,0 +1,185 @@
+{
+  "sprites": {
+    "map_icons": {
+      "file": "map_icons.png",
+      "cell": [
+        12,
+        12
+      ],
+      "anims": {
+        "lair": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "lair_cleared": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        },
+        "cave": {
+          "row": 2,
+          "frames": 1,
+          "fps": 1
+        },
+        "cave_cleared": {
+          "row": 3,
+          "frames": 1,
+          "fps": 1
+        },
+        "village": {
+          "row": 4,
+          "frames": 1,
+          "fps": 1
+        },
+        "monolith": {
+          "row": 5,
+          "frames": 1,
+          "fps": 1
+        },
+        "shrine": {
+          "row": 6,
+          "frames": 1,
+          "fps": 1
+        },
+        "chest": {
+          "row": 7,
+          "frames": 1,
+          "fps": 1
+        },
+        "heart": {
+          "row": 8,
+          "frames": 1,
+          "fps": 1
+        },
+        "player": {
+          "row": 9,
+          "frames": 1,
+          "fps": 1
+        },
+        "encounter": {
+          "row": 10,
+          "frames": 1,
+          "fps": 1
+        },
+        "boss": {
+          "row": 11,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "title_far": {
+      "file": "title_far.png",
+      "cell": [
+        480,
+        208
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "title_logo": {
+      "file": "title_logo.png",
+      "cell": [
+        240,
+        72
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "title_near": {
+      "file": "title_near.png",
+      "cell": [
+        480,
+        208
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "title_scene": {
+      "file": "title_scene.png",
+      "cell": [
+        480,
+        208
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "title_sky": {
+      "file": "title_sky.png",
+      "cell": [
+        480,
+        208
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "ui_cursor": {
+      "file": "ui_cursor.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 4
+        }
+      }
+    },
+    "ui_frame": {
+      "file": "ui_frame.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "ui_slot": {
+      "file": "ui_slot.png",
+      "cell": [
+        20,
+        20
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    }
+  }
+}
