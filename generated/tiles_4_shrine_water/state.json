@@ -1,0 +1,11 @@
+{
+  "tileset_id": "932a9264-4bc5-49e1-8b57-6c344366c13b",
+  "lower": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+  "upper": "dungeon floor of mossy grey-green square flagstones with grass growing in the gaps, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "size": "32",
+  "transition": "stone pool edge with moss",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme4_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "7dccaa42-5d57-40be-9886-864f2ad1cd10"
+}

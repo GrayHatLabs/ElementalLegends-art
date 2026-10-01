@@ -1,0 +1,6 @@
+# Rendered music (re-create with: elementallegends --render-music <dir>)
+music/*.wav
+# Kenney pack: downloaded but not used (user decision)
+kenney/
+__pycache__/
+*.pyc

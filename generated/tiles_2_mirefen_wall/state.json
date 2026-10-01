@@ -1,0 +1,11 @@
+{
+  "tileset_id": "446e4513-45fe-4498-b31f-e49a784f23a0",
+  "lower": "murky swamp ground, dark olive-brown mud with patches of dull green moss and small puddle spots, gentle shading, SNES Zelda A Link to the Past style, not neon",
+  "upper": "raised mass of big round grey stone boulders heavily covered in bright green moss, seen from above, strong light tops and dark shadowed gaps between boulders, clearly lighter than the mud ground, SNES Zelda A Link to the Past style",
+  "size": "32",
+  "transition": "damp dark shadow around the mossy boulders",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme2_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

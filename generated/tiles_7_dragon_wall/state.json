@@ -1,0 +1,11 @@
+{
+  "tileset_id": "7d829060-ed61-446c-9424-debae5fb20c3",
+  "lower": "fortress dungeon floor of large simple dark charcoal-red square stone tiles with a few small glowing orange lava cracks, calm, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "upper": "tall raised fortress wall of charred black bricks with lighter grey-brown brick tops and a strong dark shadow, clearly different from the red floor, seen from above, SNES Zelda A Link to the Past style dungeon",
+  "size": "32",
+  "transition": "dark soot shadow at the base of the charred wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme7_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

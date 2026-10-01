@@ -1,0 +1,13 @@
+{
+  "character_id": "a576395e-94f8-4c8f-8b32-ee569bab31de",
+  "description": "short cute dryad girl with a big head, long flowing green hair decorated with leaves and a pink flower, wearing a long green leaf gown, bare feet, elf-like forest spirit, chunky SNES RPG villager",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

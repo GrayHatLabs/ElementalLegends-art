@@ -1,0 +1,11 @@
+{
+  "tileset_id": "fb150709-d5a0-4f87-88df-6258901e1339",
+  "lower": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+  "upper": "castle dungeon floor of worn tan and light brown stone tiles with small cracks, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "size": "32",
+  "transition": "tan stone moat edge",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme6_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "699fbf46-d6ae-42ea-b20e-2cd49865b5c3"
+}

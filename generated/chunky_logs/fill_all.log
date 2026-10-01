@@ -1,0 +1,21 @@
+﻿dryad animate response {"background_job_ids": ["c607060c-abd8-4bba-9d29-a461ce5e3899"], "directions": ["north"], "animation_group_id": "3b643c4c-37b8-407c-8107-19290e2e7ba8", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+scholar3 animate response {"background_job_ids": ["ba4cd621-19a6-4b3e-9e54-c0bfbecf7e2d"], "directions": ["north"], "animation_group_id": "2bdbffc6-d4cb-4ad4-b623-b55a16d0ec9d", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+skeleton2 animate response {"background_job_ids": ["b80324ed-2a24-4865-92d2-131ae2b62fb6"], "directions": ["north"], "animation_group_id": "db006b03-be6e-4f1a-a60a-4195c9349db6", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+merchant2 animate response {"background_job_ids": ["3862c947-46d8-4763-8b9b-d8091da2c4b4"], "directions": ["north"], "animation_group_id": "8a8a0d36-782e-466a-9bc1-d805c02aaf36", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+innkeeper animate response {"background_job_ids": ["154cae27-c93f-4c4f-8cbe-84b62bdd0013"], "directions": ["north"], "animation_group_id": "0573d1ce-8054-44e6-9cbb-59545617e889", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+zombie animate response {"background_job_ids": ["3e7b0061-99ae-4031-91ce-e04d86f5a0d7"], "directions": ["north"], "animation_group_id": "b3c1f371-e9e5-4d74-b46d-d3f511168a2d", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+gravelord3 animate response {"background_job_ids": ["8e8d4c68-4dc5-40f7-a210-cef5c2029398"], "directions": ["north"], "animation_group_id": "b3b5c05a-9330-48a3-baf5-e7f894fcb7cb", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched merchant2
+merchant2 animate response {"background_job_ids": ["7c98dc23-280a-40b8-829d-8a3bb34f5d53"], "directions": ["east"], "animation_group_id": "95ab667f-8282-4308-9519-94be9875a368", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched dryad
+dryad animate response {"background_job_ids": ["c0214686-0781-4cee-a1b4-c9b9dd831a30"], "directions": ["east"], "animation_group_id": "a67c2c00-5749-42cb-924d-a78259eb7278", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched skeleton2
+skeleton2 animate response {"background_job_ids": ["99b2271b-1b48-4cec-92db-0f9e4e24e7d2"], "directions": ["east"], "animation_group_id": "a0039280-7c5f-4198-acad-3fc6c9176e54", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched scholar3
+scholar3 animate response {"background_job_ids": ["3acf34a7-ba9c-4842-b950-ad3acd8e1031"], "directions": ["east"], "animation_group_id": "2d70e1ff-7b50-449c-a812-67f82c3e86ba", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched innkeeper
+innkeeper animate response {"background_job_ids": ["9e90786f-5407-44d9-9c5d-5ebfd202b575"], "directions": ["east"], "animation_group_id": "1e6f5099-6dd1-4b89-be89-92e4a2194b4b", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched zombie
+zombie animate response {"background_job_ids": ["a3c49225-a128-4cfd-85a2-0eaa5dc1e585"], "directions": ["east"], "animation_group_id": "561bdff9-79bd-4a11-b66c-ebd1a2229b13", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched gravelord3
+gravelord3 animate response {"background_job_ids": ["6ef90a2b-7051-4d5f-8bde-4f1bc447a3bb"], "directions": ["east"], "animation_group_id": "52e16a2d-f46b-47f9-96ae-a8399d5d82b5", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}

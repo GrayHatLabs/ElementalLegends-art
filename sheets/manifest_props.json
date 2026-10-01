@@ -1,0 +1,508 @@
+{
+  "sprites": {
+    "prop_4_banner": {
+      "file": "prop_4_banner.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_4_brazier": {
+      "file": "prop_4_brazier.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 4
+        }
+      }
+    },
+    "prop_4_clump": {
+      "file": "prop_4_clump.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_4_pillar": {
+      "file": "prop_4_pillar.png",
+      "cell": [
+        24,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_4_roots": {
+      "file": "prop_4_roots.png",
+      "cell": [
+        48,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_4_statue": {
+      "file": "prop_4_statue.png",
+      "cell": [
+        24,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_5_banner": {
+      "file": "prop_5_banner.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_5_bones": {
+      "file": "prop_5_bones.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_5_brazier": {
+      "file": "prop_5_brazier.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 4
+        }
+      }
+    },
+    "prop_5_pillar": {
+      "file": "prop_5_pillar.png",
+      "cell": [
+        24,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_5_runes": {
+      "file": "prop_5_runes.png",
+      "cell": [
+        48,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_5_statue": {
+      "file": "prop_5_statue.png",
+      "cell": [
+        24,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_6_banner": {
+      "file": "prop_6_banner.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_6_brazier": {
+      "file": "prop_6_brazier.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 4
+        }
+      }
+    },
+    "prop_6_pillar": {
+      "file": "prop_6_pillar.png",
+      "cell": [
+        24,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_6_rubble": {
+      "file": "prop_6_rubble.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_6_rug": {
+      "file": "prop_6_rug.png",
+      "cell": [
+        48,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_6_statue": {
+      "file": "prop_6_statue.png",
+      "cell": [
+        24,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_7_banner": {
+      "file": "prop_7_banner.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_7_brazier": {
+      "file": "prop_7_brazier.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 4
+        }
+      }
+    },
+    "prop_7_hoard": {
+      "file": "prop_7_hoard.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_7_mosaic": {
+      "file": "prop_7_mosaic.png",
+      "cell": [
+        48,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_7_pillar": {
+      "file": "prop_7_pillar.png",
+      "cell": [
+        24,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_7_statue": {
+      "file": "prop_7_statue.png",
+      "cell": [
+        24,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_8_banner": {
+      "file": "prop_8_banner.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_8_books": {
+      "file": "prop_8_books.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_8_brazier": {
+      "file": "prop_8_brazier.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 4
+        }
+      }
+    },
+    "prop_8_mosaic": {
+      "file": "prop_8_mosaic.png",
+      "cell": [
+        48,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_8_pillar": {
+      "file": "prop_8_pillar.png",
+      "cell": [
+        24,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_8_statue": {
+      "file": "prop_8_statue.png",
+      "cell": [
+        24,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_9_banner": {
+      "file": "prop_9_banner.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_9_brazier": {
+      "file": "prop_9_brazier.png",
+      "cell": [
+        24,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 4
+        }
+      }
+    },
+    "prop_9_cage": {
+      "file": "prop_9_cage.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_9_circle": {
+      "file": "prop_9_circle.png",
+      "cell": [
+        48,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 4
+        }
+      }
+    },
+    "prop_9_pillar": {
+      "file": "prop_9_pillar.png",
+      "cell": [
+        24,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "prop_9_statue": {
+      "file": "prop_9_statue.png",
+      "cell": [
+        24,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,704 @@
+{
+  "mage_fire": {
+    "file": "mage_fire.png",
+    "cell": [
+      24,
+      40
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "mage_ice": {
+    "file": "mage_ice.png",
+    "cell": [
+      24,
+      40
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "mage_storm": {
+    "file": "mage_storm.png",
+    "cell": [
+      24,
+      40
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "mage_earth": {
+    "file": "mage_earth.png",
+    "cell": [
+      24,
+      40
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "npc_merchant": {
+    "file": "npc_merchant.png",
+    "cell": [
+      20,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_zombie": {
+    "file": "enemy_zombie.png",
+    "cell": [
+      24,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "npc_dryad": {
+    "file": "npc_dryad.png",
+    "cell": [
+      22,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_gravelord": {
+    "file": "enemy_gravelord.png",
+    "cell": [
+      38,
+      56
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_skeleton_fire": {
+    "file": "enemy_skeleton_fire.png",
+    "cell": [
+      20,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_imp_fire": {
+    "file": "enemy_imp_fire.png",
+    "cell": [
+      24,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_skeleton_ice": {
+    "file": "enemy_skeleton_ice.png",
+    "cell": [
+      20,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_imp_ice": {
+    "file": "enemy_imp_ice.png",
+    "cell": [
+      24,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_skeleton_storm": {
+    "file": "enemy_skeleton_storm.png",
+    "cell": [
+      20,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_imp_storm": {
+    "file": "enemy_imp_storm.png",
+    "cell": [
+      24,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_skeleton_earth": {
+    "file": "enemy_skeleton_earth.png",
+    "cell": [
+      20,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_imp_earth": {
+    "file": "enemy_imp_earth.png",
+    "cell": [
+      24,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_skeleton_neutral": {
+    "file": "enemy_skeleton_neutral.png",
+    "cell": [
+      20,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  },
+  "enemy_imp_neutral": {
+    "file": "enemy_imp_neutral.png",
+    "cell": [
+      24,
+      38
+    ],
+    "anims": {
+      "idle_down": {
+        "row": 0,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_up": {
+        "row": 1,
+        "frames": 1,
+        "fps": 2
+      },
+      "idle_side": {
+        "row": 2,
+        "frames": 1,
+        "fps": 2
+      },
+      "walk_down": {
+        "row": 3,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_up": {
+        "row": 4,
+        "frames": 4,
+        "fps": 8
+      },
+      "walk_side": {
+        "row": 5,
+        "frames": 4,
+        "fps": 8
+      }
+    }
+  }
+}

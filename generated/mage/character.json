@@ -1,0 +1,83 @@
+{
+  "id": "ffe5bbf6-3699-4b6b-92ac-d551818ba0bc",
+  "name": "young wizard with a tall pointed grey hat, long pl...",
+  "state_name": "Idle",
+  "prompt": "young wizard with a tall pointed grey hat, long plain grey robe, white beard, holding a wooden staff with a glowing gem, fantasy RPG hero",
+  "size": {
+    "width": 48,
+    "height": 48
+  },
+  "directions": 4,
+  "created_at": "2026-09-29T23:59:54.970836+00:00",
+  "updated_at": "2026-09-30T00:00:28.860511+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/rotations/south.png?t=1790726428",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/rotations/west.png?t=1790726428",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/rotations/east.png?t=1790726428",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/rotations/north.png?t=1790726428",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "45885fd0-bd27-43b3-82c9-8dd8d240281f",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking forward, robe swaying,",
+      "display_name": "walking forward, robe swaying, staff in hand",
+      "animation_group_id": "fd412ce4-bc50-4e36-ba5c-38a948f68208",
+      "directions": [
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/44440d23-9ace-4e89-8adf-b6ab73dcdc58/north/0.png?t=1790726747",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/44440d23-9ace-4e89-8adf-b6ab73dcdc58/north/1.png?t=1790726747",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/44440d23-9ace-4e89-8adf-b6ab73dcdc58/north/2.png?t=1790726747",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/44440d23-9ace-4e89-8adf-b6ab73dcdc58/north/3.png?t=1790726747"
+          ]
+        },
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/75d6f813-5849-4ed7-a308-5646bb6d8ba5/east/0.png?t=1790726748",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/75d6f813-5849-4ed7-a308-5646bb6d8ba5/east/1.png?t=1790726748",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/75d6f813-5849-4ed7-a308-5646bb6d8ba5/east/2.png?t=1790726748",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/75d6f813-5849-4ed7-a308-5646bb6d8ba5/east/3.png?t=1790726748"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking forward, robe swaying,",
+      "display_name": "walking forward, robe swaying, staff in hand",
+      "animation_group_id": "a392b5fb-a4d1-44da-9d61-1753493f5268",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/a7e025f6-e43f-4027-8988-e17e3028f8f0/south/0.png?t=1790726636",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/a7e025f6-e43f-4027-8988-e17e3028f8f0/south/1.png?t=1790726636",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/a7e025f6-e43f-4027-8988-e17e3028f8f0/south/2.png?t=1790726636",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ffe5bbf6-3699-4b6b-92ac-d551818ba0bc/animations/a7e025f6-e43f-4027-8988-e17e3028f8f0/south/3.png?t=1790726636"
+          ]
+        }
+      ]
+    }
+  ]
+}

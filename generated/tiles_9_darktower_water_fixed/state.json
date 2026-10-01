@@ -1,0 +1,11 @@
+{
+  "tileset_id": "83db067e-ea7d-4fb0-a06c-57b7a266da30",
+  "lower": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+  "upper": "tower floor of glossy purple-black obsidian tiles with faint violet highlights, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "size": "32",
+  "transition": "obsidian pool edge",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme9_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "fc588ec5-ad29-491d-9607-6adccf58a909"
+}

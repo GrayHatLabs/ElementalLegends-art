@@ -1,0 +1,13 @@
+{
+  "character_id": "95d874db-f94b-4a98-844e-b0640979dac4",
+  "description": "short friendly innkeeper woman with a big head, brown hair in a bun, cream blouse, brown dress with a white apron, holding a wooden mug of ale, warm browns and cream, chunky SNES RPG villager",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

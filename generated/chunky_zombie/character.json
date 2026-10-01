@@ -1,0 +1,90 @@
+{
+  "id": "0c26f81a-7036-4a90-9134-c215fd711ee8",
+  "name": "short stocky shambling zombie with a big head, pal...",
+  "state_name": "Idle",
+  "prompt": "short stocky shambling zombie with a big head, pale green skin, torn brown peasant clothes, arms reaching forward, chunky SNES RPG enemy",
+  "size": {
+    "width": 36,
+    "height": 36
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:47:42.093723+00:00",
+  "updated_at": "2026-09-30T15:48:21.779502+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/rotations/south.png?t=1790783301",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/rotations/west.png?t=1790783301",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/rotations/east.png?t=1790783301",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/rotations/north.png?t=1790783301",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "8116c4c7-3123-4f3a-ba55-1d81fc4bad44",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-slow steady shambling walk wit",
+      "display_name": "slow steady shambling walk with arms reaching forward",
+      "animation_group_id": "c957c543-7b23-4732-979a-80782c4550b7",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/fe1509d5-1855-43bb-9b68-756a9cac1fb6/south/0.png?t=1790783849",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/fe1509d5-1855-43bb-9b68-756a9cac1fb6/south/1.png?t=1790783849",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/fe1509d5-1855-43bb-9b68-756a9cac1fb6/south/2.png?t=1790783849",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/fe1509d5-1855-43bb-9b68-756a9cac1fb6/south/3.png?t=1790783849"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-slow steady shambling walk wit",
+      "display_name": "slow steady shambling walk with arms reaching forward",
+      "animation_group_id": "561bdff9-79bd-4a11-b66c-ebd1a2229b13",
+      "directions": [
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/e73eaa52-a8f1-47df-bd68-76ebea2586d9/east/0.png?t=1790789088",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/e73eaa52-a8f1-47df-bd68-76ebea2586d9/east/1.png?t=1790789088",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/e73eaa52-a8f1-47df-bd68-76ebea2586d9/east/2.png?t=1790789088",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/e73eaa52-a8f1-47df-bd68-76ebea2586d9/east/3.png?t=1790789088"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-slow steady shambling walk wit",
+      "display_name": "slow steady shambling walk with arms reaching forward",
+      "animation_group_id": "b3c1f371-e9e5-4d74-b46d-d3f511168a2d",
+      "directions": [
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/0cd2923a-a3e3-4619-92ed-401cd6c19826/north/0.png?t=1790787488",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/0cd2923a-a3e3-4619-92ed-401cd6c19826/north/1.png?t=1790787488",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/0cd2923a-a3e3-4619-92ed-401cd6c19826/north/2.png?t=1790787488",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0c26f81a-7036-4a90-9134-c215fd711ee8/animations/0cd2923a-a3e3-4619-92ed-401cd6c19826/north/3.png?t=1790787488"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "character_id": "0c26f81a-7036-4a90-9134-c215fd711ee8",
+  "description": "short stocky shambling zombie with a big head, pale green skin, torn brown peasant clothes, arms reaching forward, chunky SNES RPG enemy",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tileset_id": "097d5e6c-3a1e-4466-9b03-03b3d21509bd",
+  "lower": "dark grey volcanic rock ground with a few thin faint glowing orange cracks, gentle shading, SNES Zelda A Link to the Past style, not neon",
+  "upper": "raised jagged black basalt rock plateau seen from above, angular dark grey columns with sharp highlights, SNES Zelda A Link to the Past style",
+  "size": "32",
+  "transition": "dark shadow at the foot of the basalt rocks",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme3_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

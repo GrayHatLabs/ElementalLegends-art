@@ -1,0 +1,11 @@
+{
+  "tileset_id": "7192343d-4cd9-4e41-8a54-81f8f6aad185",
+  "lower": "glowing molten orange lava with bright yellow hot spots and darker red crust swirls, SNES Zelda A Link to the Past style lava",
+  "upper": "dark grey volcanic rock ground with a few thin faint glowing orange cracks, gentle shading, SNES Zelda A Link to the Past style, not neon",
+  "size": "32",
+  "transition": "cooling black rock crust edge glowing orange",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme3_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "27dbbad3-5c14-4ee6-9fbb-22debd859327"
+}

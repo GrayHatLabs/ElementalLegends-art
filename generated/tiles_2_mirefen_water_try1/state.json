@@ -1,0 +1,11 @@
+{
+  "tileset_id": "6213d743-c2b2-4c85-9937-5a27434a75bf",
+  "lower": "murky dark green swamp water with faint lighter green scum ripples, SNES Zelda A Link to the Past style, not neon",
+  "upper": "murky swamp ground, dark olive-brown mud with patches of dull green moss and small puddle spots, gentle shading, SNES Zelda A Link to the Past style, not neon",
+  "size": "32",
+  "transition": "muddy mossy swamp bank",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme2_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "c100d696-0166-4011-8fd3-33ac8fd593ba"
+}

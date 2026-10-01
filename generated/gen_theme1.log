@@ -1,0 +1,12 @@
+﻿>> tileset tiles_1_crypt_wall overgrown graveyard ground, packed brown dirt with scattered grey cobblestones and small patches of dull green moss, gentle shading, SNES Zelda A Link to the Past style, not neon
+tileset 3dd1cf28-eb99-4965-8c86-5bbe8f18dabb saved 16 images
+>> tileset tiles_1_crypt_water clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon
+tileset bc38a4a8-09c8-4cae-b186-4c112ad5dd24 saved 16 images
+>> image deco_1_tombstone single weathered grey rounded tombstone with a crack, SNES Zelda A Link to the Past style graveyard, muted colors
+saved D:\projects\ElementalLegends-art\generated\deco_1_tombstone\image.png
+>> image deco_1_deadtree small leafless dead tree with twisted grey-brown branches, SNES Zelda A Link to the Past style, muted colors
+saved D:\projects\ElementalLegends-art\generated\deco_1_deadtree\image.png
+>> image deco_1_cross single old grey stone cross grave marker with moss at the base, SNES Zelda A Link to the Past style, muted colors
+saved D:\projects\ElementalLegends-art\generated\deco_1_cross\image.png
+demo D:\projects\ElementalLegends-art\generated\tiles_1_crypt_wall\demo24.png (336, 216)
+demo D:\projects\ElementalLegends-art\generated\tiles_1_crypt_water\demo24.png (336, 216)

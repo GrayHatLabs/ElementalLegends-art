@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys,subprocess;sys.argv=['x'];import chars;chars.character('gravelord','undead knight king boss, dark iron plate armor, tattered purple cape, skull face with glowing eyes, golden crown, big sword, fantasy RPG boss',48);chars.animate('gravelord','walking menacingly','south,north,east',4)
+                                                                                                                                                                                                                                      ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\ElementalLegends-art\tools\chars.py", line 118, in animate
+    wait(jid, f"{name} animate")
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\ElementalLegends-art\tools\chars.py", line 51, in wait
+    raise RuntimeError("timeout")
+RuntimeError: timeout

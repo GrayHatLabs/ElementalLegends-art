@@ -1,0 +1,38 @@
+{
+  "id": "3ddb20f3-4dac-4957-bdb0-39accc64a845",
+  "name": "short stocky wizard with a big head, tall pointed ...",
+  "state_name": "Idle",
+  "prompt": "short stocky wizard with a big head, tall pointed grey hat, long plain grey robe, white beard, holding a wooden staff with a glowing gem, chunky SNES RPG hero",
+  "size": {
+    "width": 48,
+    "height": 48
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:29:54.834351+00:00",
+  "updated_at": "2026-09-30T15:31:44.174375+00:00",
+  "animation_count": 0,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/3ddb20f3-4dac-4957-bdb0-39accc64a845/rotations/south.png?t=1790782304",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/3ddb20f3-4dac-4957-bdb0-39accc64a845/rotations/west.png?t=1790782304",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/3ddb20f3-4dac-4957-bdb0-39accc64a845/rotations/east.png?t=1790782304",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/3ddb20f3-4dac-4957-bdb0-39accc64a845/rotations/north.png?t=1790782304",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "ab451c86-6f71-4a2c-8a35-713b9ec7c9f9",
+  "skeletons": null,
+  "animations": []
+}

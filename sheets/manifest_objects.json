@@ -1,0 +1,410 @@
+{
+  "sprites": {
+    "bld_1": {
+      "file": "bld_1.png",
+      "cell": [
+        96,
+        120
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "bld_2": {
+      "file": "bld_2.png",
+      "cell": [
+        96,
+        116
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "bld_3": {
+      "file": "bld_3.png",
+      "cell": [
+        96,
+        128
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "bld_4": {
+      "file": "bld_4.png",
+      "cell": [
+        96,
+        128
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "bld_5": {
+      "file": "bld_5.png",
+      "cell": [
+        96,
+        124
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "bld_6": {
+      "file": "bld_6.png",
+      "cell": [
+        96,
+        150
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_barrel": {
+      "file": "obj_barrel.png",
+      "cell": [
+        22,
+        26
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_brazier": {
+      "file": "obj_brazier.png",
+      "cell": [
+        22,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_cave_0": {
+      "file": "obj_cave_0.png",
+      "cell": [
+        96,
+        72
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_cave_1": {
+      "file": "obj_cave_1.png",
+      "cell": [
+        96,
+        72
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_cave_2": {
+      "file": "obj_cave_2.png",
+      "cell": [
+        96,
+        72
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_cave_3": {
+      "file": "obj_cave_3.png",
+      "cell": [
+        96,
+        72
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_chest_closed": {
+      "file": "obj_chest_closed.png",
+      "cell": [
+        26,
+        26
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_chest_open": {
+      "file": "obj_chest_open.png",
+      "cell": [
+        26,
+        26
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_cottage": {
+      "file": "obj_cottage.png",
+      "cell": [
+        96,
+        80
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_fruit_tree": {
+      "file": "obj_fruit_tree.png",
+      "cell": [
+        34,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_fruit_tree_bare": {
+      "file": "obj_fruit_tree_bare.png",
+      "cell": [
+        34,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_inn": {
+      "file": "obj_inn.png",
+      "cell": [
+        96,
+        80
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_lever_off": {
+      "file": "obj_lever_off.png",
+      "cell": [
+        20,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_lever_on": {
+      "file": "obj_lever_on.png",
+      "cell": [
+        20,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_monolith": {
+      "file": "obj_monolith.png",
+      "cell": [
+        48,
+        96
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_notice_board": {
+      "file": "obj_notice_board.png",
+      "cell": [
+        30,
+        34
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_push_block": {
+      "file": "obj_push_block.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_rug": {
+      "file": "obj_rug.png",
+      "cell": [
+        96,
+        48
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_shelf": {
+      "file": "obj_shelf.png",
+      "cell": [
+        48,
+        56
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_shop_counter": {
+      "file": "obj_shop_counter.png",
+      "cell": [
+        120,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_shrine_pedestal": {
+      "file": "obj_shrine_pedestal.png",
+      "cell": [
+        24,
+        20
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_standing_stone": {
+      "file": "obj_standing_stone.png",
+      "cell": [
+        24,
+        34
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    },
+    "obj_tombstone": {
+      "file": "obj_tombstone.png",
+      "cell": [
+        20,
+        26
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 4
+        }
+      }
+    }
+  }
+}

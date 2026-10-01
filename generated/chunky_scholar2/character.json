@@ -1,0 +1,38 @@
+{
+  "id": "f7aaea5b-73b3-4817-b495-38f8aa63f9eb",
+  "name": "short old scholar with a big head, white hair and ...",
+  "state_name": "Idle",
+  "prompt": "short old scholar with a big head, white hair and white beard, round glasses, long light blue-grey robe, holding an open brown book, chunky SNES RPG villager",
+  "size": {
+    "width": 36,
+    "height": 36
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:49:55.543441+00:00",
+  "updated_at": "2026-09-30T15:50:46.743362+00:00",
+  "animation_count": 0,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/f7aaea5b-73b3-4817-b495-38f8aa63f9eb/rotations/south.png?t=1790783446",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/f7aaea5b-73b3-4817-b495-38f8aa63f9eb/rotations/west.png?t=1790783446",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/f7aaea5b-73b3-4817-b495-38f8aa63f9eb/rotations/east.png?t=1790783446",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/f7aaea5b-73b3-4817-b495-38f8aa63f9eb/rotations/north.png?t=1790783446",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "41484d5c-36e6-4560-b1b9-61fc3cc49cd7",
+  "skeletons": null,
+  "animations": []
+}

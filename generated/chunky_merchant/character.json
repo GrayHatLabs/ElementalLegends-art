@@ -1,0 +1,38 @@
+{
+  "id": "e47e53c2-d22e-4004-be0a-762b78fc21b6",
+  "name": "short plump friendly village merchant shopkeeper w...",
+  "state_name": "Idle",
+  "prompt": "short plump friendly village merchant shopkeeper with a big head, round belly, brown apron over a white shirt, small mustache, brown cap, chunky SNES RPG villager",
+  "size": {
+    "width": 36,
+    "height": 36
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:47:41.779518+00:00",
+  "updated_at": "2026-09-30T15:48:26.708858+00:00",
+  "animation_count": 0,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/e47e53c2-d22e-4004-be0a-762b78fc21b6/rotations/south.png?t=1790783306",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/e47e53c2-d22e-4004-be0a-762b78fc21b6/rotations/west.png?t=1790783306",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/e47e53c2-d22e-4004-be0a-762b78fc21b6/rotations/east.png?t=1790783306",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/e47e53c2-d22e-4004-be0a-762b78fc21b6/rotations/north.png?t=1790783306",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "e84a6cce-3d46-4684-baf3-6ed19152263c",
+  "skeletons": null,
+  "animations": []
+}

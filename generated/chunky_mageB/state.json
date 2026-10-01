@@ -1,0 +1,9 @@
+{
+  "character_id": "a00a2de0-80d9-44c3-be1d-aebcdfd2bf42",
+  "description": "short stocky wizard with a big head, tall pointed grey hat, long plain grey robe, white beard, holding a wooden staff with a glowing gem, chunky SNES RPG hero",
+  "size": 24,
+  "proportions": {
+    "type": "preset",
+    "name": "chibi"
+  }
+}

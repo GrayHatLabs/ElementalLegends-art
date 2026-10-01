@@ -1,0 +1,11 @@
+{
+  "tileset_id": "d7718398-0f32-4f97-9ee7-307f9e4ceaea",
+  "lower": "tower floor of glossy purple-black obsidian tiles with faint violet highlights, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "upper": "raised tower wall of dark purple stone bricks seen from above, SNES Zelda A Link to the Past style dungeon",
+  "size": "32",
+  "transition": "deep dark shadow at the base of the purple brick wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme9_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

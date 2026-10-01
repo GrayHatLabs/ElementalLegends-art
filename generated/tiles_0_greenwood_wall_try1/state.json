@@ -1,0 +1,9 @@
+{
+  "tileset_id": "e2405fa8-424e-46e4-a8af-3dcb105b33a1",
+  "lower": "SNES Zelda A Link to the Past style forest meadow grass, natural muted rich green with darker grass tufts and small blades, not neon",
+  "upper": "dense dark green tree canopy and round leafy bushes seen from above, clustered leaf clumps with dark shadows between, SNES Zelda A Link to the Past style",
+  "size": "32",
+  "transition": "dark shadowed edge of bushes on grass",
+  "color_image": "..\\generated\\palettes\\theme0_wall.png",
+  "transition_size": "0.25"
+}

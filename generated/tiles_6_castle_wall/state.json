@@ -1,0 +1,11 @@
+{
+  "tileset_id": "91caf745-4fc1-4b64-ab85-e1f8f8c5bc3a",
+  "lower": "castle dungeon floor of worn tan and light brown stone tiles with small cracks, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "upper": "raised castle wall of large sandstone blocks seen from above, warm tan and brown, SNES Zelda A Link to the Past style dungeon",
+  "size": "32",
+  "transition": "dark shadow at the base of the sandstone wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme6_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

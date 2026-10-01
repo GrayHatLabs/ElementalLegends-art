@@ -1,0 +1,13 @@
+{
+  "character_id": "3ac42a1f-94c8-47f2-a376-65e7b8db237a",
+  "description": "short stocky skeleton warrior with a big white skull, white bones, wearing a torn red cloth tunic, holding a small rusty sword in one hand, chunky SNES RPG enemy",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

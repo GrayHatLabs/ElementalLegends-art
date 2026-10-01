@@ -1,0 +1,11 @@
+{
+  "tileset_id": "afa4780b-c8c8-4b9a-a201-eb96f9ad1ebe",
+  "lower": "deep clear medium blue water, darker and more saturated than the pale marble, gentle white wave highlights, SNES Zelda A Link to the Past style water, not neon",
+  "upper": "sanctuary floor of polished pale blue marble tiles with soft white veins, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "size": "32",
+  "transition": "blue marble pool edge",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme8_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "c9481124-5a7f-480c-bd6e-d7612c970c21"
+}

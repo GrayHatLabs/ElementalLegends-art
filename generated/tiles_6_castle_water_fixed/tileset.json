@@ -1,0 +1,792 @@
+{
+  "usage": null,
+  "tileset": {
+    "total_tiles": 16,
+    "tile_size": {
+      "width": 32,
+      "height": 32
+    },
+    "terrain_types": [
+      "lower",
+      "upper"
+    ],
+    "tiles": [
+      {
+        "id": "13",
+        "name": "wang_13",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABsElEQVR4nM1XLVPDMBh+uotEREREVCAiJhATyImJCSQSiUBO8gOQ+wH8gAkEcnJyAoHsD4ioqJiIiEAgdjfELiVLk3638Nz1rn2TJ33u/UoSTcXNCQAEO0IqAgPBjgAAqUhhzJ5j7G35kRFQtngb1OXnM4zi0GIh2B5owydmgqtWsOOFPeTCrvxJUNpI+HMB3izxxawsjl34pUlox69KQFt+sAzHAjloBU4ZDlo1Ij4urgu2XfLVWEBEGT9xyryDRpQ77oq2xchM/757OqOLfIbrAd9PQ9jsU8wFhYjpRWMyfSDUJ4Aey/BDagDA3eyqEW/Cl2vg9rkwYNzMl+vai232aaOfS0UQTR82lVWg06Rg+5bv3uTllOVekJmuLOFo8fLZqQyT13uvfS7oWUTFdtw5B2arbSd+L0k4W20LQkxSlkEq4t8LuggJhaSyDwwhQsQUIj7bfV1y8PNAnbIcREBZYrqh6D0EPshMQ1id3RYxWAhsL5Sdjgf3gEm+kIj/eSbsE/aW7MOgHuCUQcQ0/5aK5M8oAupgNAG+JOx9L7BxeHu6OB2F7gqjNCIgfDf8AfTh2tOmaq92AAAAAElFTkSuQmCC",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "upper",
+          "SW": "lower",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 4,
+          "col": 2
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "10",
+        "name": "wang_10",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA6UlEQVR4nO2WIRKDMBBFXztIBCKCA0QgKhA9BAeq6NEQPQQH4AAIBALJTKtCMxSSCjYTkacgk5n9s/nZ/Eulb28ArRb6McNg/ps6p+1muD8AKKuKM7maD7v4lmEaTy1qs1bVatnd0HazWPFVwLb9Zm1v/Wyu/i2yxCngyA8SOE0off6rgBCFjvB6QHIGgHUN9+jHjLJQYQbR3hwIQRzX0GXCps5FBXjfAoCyUPICgJ/nOARxeABSHkh5IDIBKQ+EJOUBZx4wwoZJrL77CEJ4w5sHggiAb8vt1hvKQjG8niIC/soDWi1iPvgAZFBo7dZGGqMAAAAASUVORK5CYII=",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "lower",
+          "SW": "upper",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 2,
+          "col": 6
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "4",
+        "name": "wang_4",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA90lEQVR4nGN0aDjxn4GK4MWSFDjbw4CHYceFLwwqIn8Y7rxhgYsj8xmp7QB0RxACLISVkAdURP4wMDAwMNx5wwJnIwNYCFDdAbh8jx4FMJqJ6g748IYk9VR3AKmAdmlARoCBgYGB4c6bLxA+lnTAwEDDENhx4QucjRz/6IAm2fDClAAGCQERotTSLAqISYwSAiK0cwC6RcgA2XE0SQMGORswLIRhdECzRIjuCFyAplHAoRLB8OPOChQxWChIuHTQ3gEaHhEML24YMHx4cIFBQMEAqxqaJ0IJDQ0GCQ0NnPIDXhSPOmDUAaMOGHXAqANGHTDqgAF3AAAGF0w3QllftgAAAABJRU5ErkJggg==",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "upper",
+          "SW": "lower",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 4,
+          "col": 1
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "12",
+        "name": "wang_12",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA8UlEQVR4nGP0sdD4f+cNCwMMqIj8YWBgYGC484aFQUXkDwOyHLIamDi6GlL1M2qo6PzHJUkOIFU/C8zFuAzDBZBDgBL9LOiuVRH5g+ILXEEIoynVz4TTiXQCA+4AlPDBFmf44pEYtYT0Y02EyPFHyABK9WNkQ3oDlhcf3pCtWUJAhIFS/SwSAiI4Fbz48IYBmzyypfjkcZmNrB9nCEgIiGD1Ibqh+PRjk0fXP7iyITrA5jt48Lp0QAT2VJBkIbp+Ro2IBQRzwYcHFxgEFAxIsohYfYwODScGNBsOeBoYdcCoA0YdMOqAUQeMOmDUAQPuAAC+0YN7JHdSkgAAAABJRU5ErkJggg==",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "upper",
+          "SW": "lower",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 3,
+          "col": 5
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "6",
+        "name": "wang_6",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABbElEQVR4nO2XK1PEMBSFT5kIxIoVERXIiIgVK5GIFRUI5AoEAskPQCL5AUgEYgUSWbESgayMiERERFRUIDqziE52+0i2PHrLDLNnJqbJ9Hy99ya9ic7u3jYgkFldI5lPAABpVnjXCF7iiML8q9KWgZEavOfQtrIQvPSuIYlA9nBRmZ5Mm0CWNQYZwHdEDuAK0X1xW6Q1UNeoNeAU2n51RRTngFEKZn2LeMp715KkIJYSZg2Y3P4NAAAciyU+9PMOyhMNk1u6GpDJsmNWH06kRTi/eeldQ34OhCBcFEY5B+LFfXBuHAApg3P//19wADgA9IkBwCS98k4WyRM5QCTFbOO6lrbSrEB8+UgLcH4qg/2Atgw5X3R+LIMCSDHrbUgEL8nSwZyBT66RfNU5YqUA7D9WfwxQN3MSvNyCmXz33Cg1KMTebagt61wuHMSgAKGePZQaBzEEyNbZZ1ZFYP8LfpuSRgra97ZQBIasgU/m7YH3gonXVAAAAABJRU5ErkJggg==",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "upper",
+          "SW": "upper",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 5,
+          "col": 2
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "8",
+        "name": "wang_8",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA+ElEQVR4nO3VIQ7CMBTG8T9kAoGYmKhAICoqEBxigiNwFI7AMTgEEoHgEIjKiYmJHoAExFJSxgaIvgXRZ9YtTb5fu7duYvTqDqCLG7bJ8OXvN+s5tnJcrEOVe5QxxKypH4ThYdnKRQ3s1jNVF7d+wAAsKqC7/f6ZR0kipt+nyNZHgG0y9CIfHzDUD6IA/8674UYrUUAGn5vseL4SfCzxAbVrUHlB7ZreCbVrr6rcywD8QOVFT/grKvYp+AJ4CwtAUquHH86Bmd62CIHVA0zM9nAHqE+73vB8uRYLh7AHBrZZMhwgkw74Vv/9L0iABEiABEiABEiAMeoBsStA5WvbpmkAAAAASUVORK5CYII=",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "lower",
+          "SW": "lower",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 3,
+          "col": 6
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "bcd7b18f-c0b0-4dcf-92fc-b2506cefd6f3",
+        "name": "wang_0",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAM0lEQVR4nO3OQQEAMAjEsGPKJm3ycDVk8EkNNHVf/yx2NucAAAAAAAAAAAAAAAAAAABJMs/iAseGlBLMAAAAAElFTkSuQmCC",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "lower",
+          "SW": "lower",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 6,
+          "col": 3
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "1",
+        "name": "wang_1",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA20lEQVR4nO3UIQ7CMBTG8T9kcqKiYgLZA3AEJIdATOwgHGRyh+gBEMgdoHJiYmICuQTE0lICCaYF857pS9fk+6Vv2+Zwvt75Y23/GS4AAQhAAAIQgAAEIAABABS/Chq7JvTVqQWgtHV+QGlrAI57FfacrXFTwXGv8gJ8OIDtbwAYveCmYl2HOR9g7BqMXns3PWN879csgDV8wewUtr9h9PJ2xt9C8q8gDnfD/BIY34Sv9IB5Ap4z/1bJAZXSoTc79fFM/B6kB5xaLm5+m7vRS9iLn/3sRxTPPwY8ALOxR68/MRLvAAAAAElFTkSuQmCC",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "lower",
+          "SW": "lower",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 1,
+          "col": 1
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "11",
+        "name": "wang_11",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABd0lEQVR4nOVXoVLEMBB9ZSpPVERUVEZUnOADkIiTSAQCwUfwCQgkEnECwSecQCARCGRFBQJRERGBzMwhYEN7s0lz1+SYG95MpjNJNu8l2exus1rO1wAghUGrchCkMN/fqsDy+R3l6Q0AoKxrAEDXNHYu9e0Cy9gnH/Zp1nAKKSuAdsyLSIecyDeJpDBsf2wcJV39YAW4/CEFvE6Y+v6tAB9Rp1VSAaM+UBYiqQD7DDns7Qo4sv8VB/Zx1C6M5oLUGFxBq3LbCFIYnMgCeL1NL4CDrIokxISd64FYsCdAz44aJ6x7uo4uILgekMKg09H5t4sDZSHQrB7/RkCrckhhcF694O3uLJoANgL5c4MGAHQPVwCA8uIes9UlO/9zsRwVkNVyvh5LRn1fWBzPfsc/NFqVD/oG9j/jtAa3fkb/BbGx6cAuJEsC/VflyzXB9YBvzhT7oHrAFSdcZNvYH3Y9QHZT7IPrAW481NN99gPpPqfhdumbE2r/BQfGvBfacMRYAAAAAElFTkSuQmCC",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "lower",
+          "SW": "upper",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 2,
+          "col": 3
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "3",
+        "name": "wang_3",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAyElEQVR4nO2XrRKCQBRGzzIbCQaicQPBYDQaCTyEj2L0MXwMHsFoJBAMBoPBQGQGE4w6+4MQttxbv3v2nmUuYdX+eOmJWEnM4SIgAiIgAiIgAiIgAiIgAgD6UdeY28katsUZgLQ6LMp9pcpd3pv1yhpW1xaAYpvOypv7i+apATBZ5xZw2Q1wqFyHh4YDqNxsoj5MNIRvEOpZwmtb8wCYrBsH2HLXsH/46L9hAtOX7bcGbgk/kr5NdeWfn3Yu/6XuWxrbLX09U/k3zXlga1ZfQ6EAAAAASUVORK5CYII=",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "lower",
+          "SW": "upper",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 1,
+          "col": 2
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "2",
+        "name": "wang_2",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA1klEQVR4nO3XLxKCQBTH8S/ORoOBQDASNhiMRoOB4AEMBo/iQQxGj8ARjEYC0UAgEAgGZjCByPAnsDuU92YovPD7zHu7zODsr8+SGWsxZ7gABCAAAQhAAAIQgAAEAKAAluGls5kHd+sA57jTpb9edTbDV453vlkFKID4nfW2kyjC09oawNH+ZvTHJHMP6OBkBaAAfLfobMapAuATP0iiLYDxaah2WFW+W9SwJPu9N72SwWvYRjURRgF9QUNlClEn952DMcTUdfytIE5V/VSorm9EM3TqJL6LGDxVJAqfWQAAAABJRU5ErkJggg==",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "lower",
+          "SW": "upper",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 1,
+          "col": 3
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "5",
+        "name": "wang_5",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABBklEQVR4nO1XsQ2DQAw8IsoUKSgoUjJARkiZISgZJINQMgQjpGQABqCgpERKCmRk/nkeRbFfQjmJ4mUk39tn6z66P19v/BhdVQAAHrcz6mZAloxo+3iO83MkQYCT8CH2//I96KZZMloxqsBJlMD1skhIHycoSmAP1AmY7RDVwFZigmgF6mYAgEXfTahVYI1E28fhRShaAb4JTdB+EKlAVxVWUnMHEIK3QIRAmpebyqeYqgizZJzbwtsjIkKXBjgZwjE1YMLUAz+L7YFp7KZVrO4H0ry0EgfxA9yQuPD3A8HHULQCPkNyfD/gexeojqGqH9j7LBMjALjHDlDwA2uGRNUPrMHlBz74uH+thG4iJgAAAABJRU5ErkJggg==",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "upper",
+          "SW": "lower",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 2,
+          "col": 1
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "699fbf46-d6ae-42ea-b20e-2cd49865b5c3",
+        "name": "wang_15",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4nO1WyRHDIAxceyjBJfDII/1X4xJcgmeSlzxKkBQhJtaH/Rm0WOhil0d9vgCgbif2o4BQtxMAsB+l2eM2tB7lL+SAdXgEXv5lQR5rh2ngEYjwCxlIB/F1LYTfdnzPw1+lG42EvheNA3eAR1m8qpQzK48RPn2bRcjz98uBKF9tw7uQUgMcVxtKkCabZDPCL5IxEaiPtT7XftbDT0/BCshTygNrynn5rrdA29dGeA//w3WraKy3YISfXgNTDzR6gBNS9IBm/C9MPTD1QPogmnogPQVTD6TrgTfQsQFucNwE1AAAAABJRU5ErkJggg==",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "upper",
+          "SW": "upper",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 2,
+          "col": 2
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "14",
+        "name": "wang_14",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABeElEQVR4nL1WLXrDMAx97RcwMBBgEFBQYBAw0CMUDOwIgzvOjtGjFOwYBgMFAwE5QL6vReocV7Jlx+lj/pHfsyzJ2vT27QoA1kxwQwOCNRMAwA3Nw5q/h+ZL7TckIHZ4CbT29x2kWDpMgu+BEvuGNoRqrZlm85ILl9pvRWlPQpGAmEtzwUYJRxDO5b65tD8ahP77pW5dai+m4bNQnugMPg6vs/Hp/KsTILmHq2z+mpawaw07/zcO/x6I5bGU5wDgLiN+3CiS+GScsEVpSOQpcOSELcBXKQm+2zXkKaj+gpC8BjEQxAAQDzoaS4EWurl7/1aJyErDVFppSVkBXBxQBthdK6cYQ9r1fb6AWC2wO944JM8hngnQ/Ocx8hJiQlEdqEWuFuC/f01yUYAUD7XJAWU/AAAv9rM6+V1ArBRTgWn3h2qkPpIxEP5yNW8PZPQDa0HVD6yJ5BPE/vJqAqRbuqHB13G/qoCsfmBVAcBjP2DNBHdJ93tLcAM+ftHRxzrwRQAAAABJRU5ErkJggg==",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "upper",
+          "SW": "upper",
+          "SE": "lower"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 3,
+          "col": 4
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "9",
+        "name": "wang_9",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABVklEQVR4nO2XL3KEMBTGv+4gEREIRMWKCERFDoHgEBUVHGYPUVHBIThAD1C5IhKBQESsZKYVy8tmKWSZksd0O/0Uecnw/fL/5SGTT58AIJMeuotAorJMerxrgzQ/2Lo0ywAA7fF4Vf6JrKNr7pNrtsb4G4BM+skGS8FWAYyHn2JT8dDasf79bgHm1gOHvIuQe/4twBZGc9q1pvM2uFW/VrbrPiM6BUMcPGP9zl0wJY7eLwJwLyEWgDQ/wCS515yr98CwCMVeAXs1DcFoDgARt8Et3c8u+Af4swCbXYNtVQI4X/un4g0AENcvvACuaaGEjddDvFCCB6CtyiGpvcR0Y5wW5/eGbkx4gLYqUagYAFB/nGbbURIUHsB0AOIr87l0TyZ9+F2Qisu4u8a6iyZTP7ZtuDSzZgHQjfEmulSnu4hhCp5f7fzKR2Hj9NSjb9JmB9H46U/6AhEPciPNC3cyAAAAAElFTkSuQmCC",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "upper",
+          "NE": "lower",
+          "SW": "lower",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            1,
+            0,
+            255
+          ],
+          "row_2": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 4,
+          "col": 4
+        },
+        "description": null,
+        "connections": null
+      },
+      {
+        "id": "7",
+        "name": "wang_7",
+        "image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABeklEQVR4nN1XIXLDMBDcdAQNAgwKDAUKAwMLDfKEggI/pA8pKPAj9IRCP0AwwMAgQNAzLWjOla2TKqdSMpNDlqXTrff2TvLm+e3zC4mtbxsAQL0roDoDWY7Qg5jm7fFD6uBk9a6Ynu3gy/F8JqGpzkwgZDk68wQiGwBfQBuQLMd8KeC+mrMsAB5f3p28ky2BXS0FPkaypSDWsjKgOgPALUMyPYg7Z4A6nq8PZC1DLiCXiqwAZLX9c81NNEBMZBNh3zazwwj40YPdgsmyMaCPp/n4rIGlDu6vDG36fY0o+31AH0/s8cuBSJqCvm1mwexnTgOyHNMzQLWvBxO1PhkAyv2v+t2tuVSIQr06L039EQy29NGDmITn6/2++4Dg2qU6X6tjNpDVFrJyhUdgQqAAYHPYPzn/BeQYutf5zvi1JkIbpQoSBBCqUcDPQojWNf4OA3Ro0AJu3hfsEv+bnwUXAbDV/V9/VgO2+Wo6plJi/IWNiHPgvjK0Zq3/N94My1WV2BGvAAAAAElFTkSuQmCC",
+          "format": "png"
+        },
+        "corners": {
+          "NW": "lower",
+          "NE": "upper",
+          "SW": "upper",
+          "SE": "upper"
+        },
+        "pattern_4x4": {
+          "row_0": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "row_1": [
+            255,
+            0,
+            1,
+            255
+          ],
+          "row_2": [
+            255,
+            1,
+            1,
+            255
+          ],
+          "row_3": [
+            255,
+            255,
+            255,
+            255
+          ]
+        },
+        "original_position": {
+          "row": 2,
+          "col": 4
+        },
+        "description": null,
+        "connections": null
+      }
+    ]
+  },
+  "metadata": {
+    "edge_types": [
+      "lower",
+      "upper"
+    ],
+    "terrain_prompts": {
+      "lower": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+      "upper": "castle dungeon floor of worn tan and light brown stone tiles with small cracks, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+      "transition": "tan stone moat edge"
+    },
+    "terrain_ids": {
+      "lower": "bcd7b18f-c0b0-4dcf-92fc-b2506cefd6f3",
+      "upper": "699fbf46-d6ae-42ea-b20e-2cd49865b5c3"
+    },
+    "transition_size": 0.25,
+    "view": "high top-down",
+    "generation_parameters": {
+      "tile_strength": 1.0,
+      "tileset_adherence": 100.0,
+      "text_guidance_scale": 8.0,
+      "tileset_adherence_freedom": 500
+    },
+    "created_at": "2026-09-30T12:17:01.144032+00:00"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ee5aced6-e6b2-4e1e-95b0-0223ac66c974",
+  "name": "undead knight king boss, dark iron plate armor, ta...",
+  "state_name": "Idle",
+  "prompt": "undead knight king boss, dark iron plate armor, tattered purple cape, skull face with glowing eyes, golden crown, big sword, fantasy RPG boss",
+  "size": {
+    "width": 68,
+    "height": 68
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T12:31:18.085195+00:00",
+  "updated_at": "2026-09-30T12:32:08.571844+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/rotations/south.png?t=1790771528",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/rotations/west.png?t=1790771528",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/rotations/east.png?t=1790771528",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/rotations/north.png?t=1790771528",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "378fc945-e4e3-496b-924e-a95e405b9806",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking menacingly",
+      "display_name": "walking menacingly",
+      "animation_group_id": "c304ad1c-d002-4ed8-849d-f4a7cac55a4a",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/6069202b-a4e7-4ce6-b003-18fbf2d0ac04/south/0.png?t=1790772478",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/6069202b-a4e7-4ce6-b003-18fbf2d0ac04/south/1.png?t=1790772478",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/6069202b-a4e7-4ce6-b003-18fbf2d0ac04/south/2.png?t=1790772478",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/6069202b-a4e7-4ce6-b003-18fbf2d0ac04/south/3.png?t=1790772478"
+          ]
+        },
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/1cc5a650-b738-4710-9700-49eb308047ae/north/0.png?t=1790773170",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/1cc5a650-b738-4710-9700-49eb308047ae/north/1.png?t=1790773170",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/1cc5a650-b738-4710-9700-49eb308047ae/north/2.png?t=1790773170",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/1cc5a650-b738-4710-9700-49eb308047ae/north/3.png?t=1790773170"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking menacingly",
+      "display_name": "walking menacingly",
+      "animation_group_id": "4400ecd2-f10e-437a-9187-8f04d315339d",
+      "directions": [
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/bdf04e40-10ea-490e-b3a8-95eb9fa6e6d7/east/0.png?t=1790775828",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/bdf04e40-10ea-490e-b3a8-95eb9fa6e6d7/east/1.png?t=1790775828",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/bdf04e40-10ea-490e-b3a8-95eb9fa6e6d7/east/2.png?t=1790775828",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/ee5aced6-e6b2-4e1e-95b0-0223ac66c974/animations/bdf04e40-10ea-490e-b3a8-95eb9fa6e6d7/east/3.png?t=1790775828"
+          ]
+        }
+      ]
+    }
+  ]
+}

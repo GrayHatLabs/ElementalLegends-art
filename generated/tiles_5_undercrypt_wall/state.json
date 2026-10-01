@@ -1,0 +1,11 @@
+{
+  "tileset_id": "b74771fb-d833-4659-80e6-d9f3b163aca1",
+  "lower": "dungeon floor of dark grey square stone flagstones with thin dark mortar lines, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "upper": "raised dungeon wall of grey stone bricks seen from above, thick solid brick wall top, SNES Zelda A Link to the Past style dungeon",
+  "size": "32",
+  "transition": "dark shadow at the base of the brick wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme5_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

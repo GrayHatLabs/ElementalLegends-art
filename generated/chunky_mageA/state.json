@@ -1,0 +1,13 @@
+{
+  "character_id": "3ddb20f3-4dac-4957-bdb0-39accc64a845",
+  "description": "short stocky wizard with a big head, tall pointed grey hat, long plain grey robe, white beard, holding a wooden staff with a glowing gem, chunky SNES RPG hero",
+  "size": 32,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

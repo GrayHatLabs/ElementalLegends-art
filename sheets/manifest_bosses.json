@@ -1,0 +1,148 @@
+{
+  "sprites": {
+    "boss_treant": {
+      "file": "boss_treant.png",
+      "cell": [
+        100,
+        115
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        },
+        "hurt": {
+          "row": 2,
+          "frames": 1,
+          "fps": 6
+        }
+      }
+    },
+    "boss_guardian": {
+      "file": "boss_guardian.png",
+      "cell": [
+        56,
+        66
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        },
+        "hurt": {
+          "row": 2,
+          "frames": 1,
+          "fps": 6
+        }
+      }
+    },
+    "boss_golem": {
+      "file": "boss_golem.png",
+      "cell": [
+        86,
+        94
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        },
+        "hurt": {
+          "row": 2,
+          "frames": 1,
+          "fps": 6
+        }
+      }
+    },
+    "boss_dragon": {
+      "file": "boss_dragon.png",
+      "cell": [
+        126,
+        98
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        },
+        "hurt": {
+          "row": 2,
+          "frames": 1,
+          "fps": 6
+        }
+      }
+    },
+    "boss_sorcerer": {
+      "file": "boss_sorcerer.png",
+      "cell": [
+        46,
+        68
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        },
+        "hurt": {
+          "row": 2,
+          "frames": 1,
+          "fps": 6
+        }
+      }
+    },
+    "boss_darksorcerer": {
+      "file": "boss_darksorcerer.png",
+      "cell": [
+        52,
+        70
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        },
+        "hurt": {
+          "row": 2,
+          "frames": 1,
+          "fps": 6
+        }
+      }
+    }
+  }
+}

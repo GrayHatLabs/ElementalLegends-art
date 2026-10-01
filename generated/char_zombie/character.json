@@ -1,0 +1,76 @@
+{
+  "id": "9a2b5ad1-37dc-4e74-8fee-01ec99c27c88",
+  "name": "shambling zombie with pale green skin, torn brown ...",
+  "state_name": "Idle",
+  "prompt": "shambling zombie with pale green skin, torn brown peasant clothes, arms reaching forward, fantasy RPG enemy",
+  "size": {
+    "width": 48,
+    "height": 48
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T12:31:17.757679+00:00",
+  "updated_at": "2026-09-30T12:31:52.370058+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/rotations/south.png?t=1790771512",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/rotations/west.png?t=1790771512",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/rotations/east.png?t=1790771512",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/rotations/north.png?t=1790771512",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "8eb8d249-3056-4924-80e1-a07f75d65038",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-shambling slowly forward, arms",
+      "display_name": "shambling slowly forward, arms outstretched",
+      "animation_group_id": "b05b8eef-8a37-4384-9ad6-020d8b591071",
+      "directions": [
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/97cc5eb0-910b-45fa-bb0b-e46c67695ba3/north/0.png?t=1790771692",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/97cc5eb0-910b-45fa-bb0b-e46c67695ba3/north/1.png?t=1790771692",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/97cc5eb0-910b-45fa-bb0b-e46c67695ba3/north/2.png?t=1790771692",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/97cc5eb0-910b-45fa-bb0b-e46c67695ba3/north/3.png?t=1790771692"
+          ]
+        },
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/b9cbdf48-14ff-496d-afc4-5f7964514c22/south/0.png?t=1790771621",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/b9cbdf48-14ff-496d-afc4-5f7964514c22/south/1.png?t=1790771621",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/b9cbdf48-14ff-496d-afc4-5f7964514c22/south/2.png?t=1790771621",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/b9cbdf48-14ff-496d-afc4-5f7964514c22/south/3.png?t=1790771621"
+          ]
+        },
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/ed8dd123-da71-45ae-bae9-b66276a538eb/east/0.png?t=1790772099",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/ed8dd123-da71-45ae-bae9-b66276a538eb/east/1.png?t=1790772099",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/ed8dd123-da71-45ae-bae9-b66276a538eb/east/2.png?t=1790772099",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/9a2b5ad1-37dc-4e74-8fee-01ec99c27c88/animations/ed8dd123-da71-45ae-bae9-b66276a538eb/east/3.png?t=1790772099"
+          ]
+        }
+      ]
+    }
+  ]
+}

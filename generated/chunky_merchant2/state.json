@@ -1,0 +1,13 @@
+{
+  "character_id": "fa75a18f-2f63-49f6-9947-f20091e1d25a",
+  "description": "short fat merchant shopkeeper with a big head and a big round belly, brown flat cap, small black mustache, white shirt, long brown apron, brown trousers, chunky SNES RPG villager",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.6,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.3,
+    "hip_width": 1.6,
+    "type": "custom"
+  }
+}

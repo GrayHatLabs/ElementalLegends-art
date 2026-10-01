@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys;sys.argv=['x'];import chars;chars.character('dryad','beautiful dryad woman with long flowing green hair decorated with leaves and a pink flower, wearing a long green leaf gown, bare feet, slender and graceful, elf-like forest spirit girl, fantasy RPG villager',32);chars.animate('dryad','walking gracefully','south,north,east',4)
+                                                                                                                                                                                                                                                                                        ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\ElementalLegends-art\tools\chars.py", line 118, in animate
+    "mode": "v3",
+  File "D:\projects\ElementalLegends-art\tools\chars.py", line 51, in wait
+    st = j.get("status")
+RuntimeError: timeout

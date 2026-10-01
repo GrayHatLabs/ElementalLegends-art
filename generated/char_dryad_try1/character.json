@@ -1,0 +1,56 @@
+{
+  "id": "cc4972fd-764e-4735-9434-fb58baef3eb2",
+  "name": "graceful forest dryad woman, long leafy green hair...",
+  "state_name": "Idle",
+  "prompt": "graceful forest dryad woman, long leafy green hair with a flower, simple green leaf dress, friendly village girl, fantasy RPG villager",
+  "size": {
+    "width": 48,
+    "height": 48
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T12:31:17.613338+00:00",
+  "updated_at": "2026-09-30T12:31:55.210987+00:00",
+  "animation_count": 1,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/rotations/south.png?t=1790771515",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/rotations/west.png?t=1790771515",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/rotations/east.png?t=1790771515",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/rotations/north.png?t=1790771515",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "35202557-7d3a-4c5a-a615-1b4042702241",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "20989773-69da-497e-87a1-9524b87cf0cb",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/animations/e1cbafc7-ae0f-4d01-895b-f17aa1b75dd9/south/0.png?t=1790772231",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/animations/e1cbafc7-ae0f-4d01-895b-f17aa1b75dd9/south/1.png?t=1790772231",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/animations/e1cbafc7-ae0f-4d01-895b-f17aa1b75dd9/south/2.png?t=1790772231",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/cc4972fd-764e-4735-9434-fb58baef3eb2/animations/e1cbafc7-ae0f-4d01-895b-f17aa1b75dd9/south/3.png?t=1790772231"
+          ]
+        }
+      ]
+    }
+  ]
+}

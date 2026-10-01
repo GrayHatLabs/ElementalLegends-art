@@ -1,0 +1,32 @@
+2026-09-30 06:42:21 treant base base_a.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:42:53 treant base base_b.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:44:43 treant anim idle job=2858de0a-31e2-474d-868a-f83be59d154e status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:46:00 treant anim attack job=60ab89e5-e4f7-428f-acb4-cb47faab4385 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:48:18 treant anim attack2 job=28cd479e-5481-4360-bf4b-ba3ba396ff09 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:49:45 guardian base base_a.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:50:07 guardian base base_b.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:50:35 golem base base_a.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:51:00 golem base base_b.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:51:21 dragon base base_a.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:51:56 dragon base base_b.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:52:36 sorcerer base base_a.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:53:02 sorcerer base base_b.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:53:28 darksorcerer base base_a.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:53:52 darksorcerer base base_b.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:54:41 guardian base base_c.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:54:59 guardian base base_d.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:55:24 golem base base_c.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:55:49 golem base base_d.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:56:10 sorcerer base base_c.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:56:28 sorcerer base base_d.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:57:44 golem base base_e.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:59:55 dragon anim attack job=75145f22-ef10-4d45-a782-2513cc65630b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:00:29 darksorcerer anim idle job=217e8814-990b-486f-8908-1de915705ca8 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:00:31 golem anim idle job=3963e63f-c372-4da2-9236-3a08b6eb5b1b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:04:13 dragon anim idle job=eddf0f93-7f8a-47a6-a9d3-3841ff88d66f status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:08:49 sorcerer anim attack job=0dc412ef-f9c8-46c5-b47f-b46da1a2db55 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:21:37 guardian anim idle job=9948ae8f-ba4e-4eb3-9379-a2aae082b00f status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:21:49 golem anim attack job=3238102d-d12f-407c-8ea4-eb95ff706de2 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:23:44 sorcerer anim idle job=f18ec485-49d0-45ea-b4ed-6c349172a95d status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:24:58 guardian anim attack job=11fd913c-a2a8-4606-bda0-6b11e48cfd71 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:25:27 darksorcerer anim attack job=d2b80839-e662-4a6e-b789-71ae723bf1cd status=completed {"type": "generations", "generations": 1.0}

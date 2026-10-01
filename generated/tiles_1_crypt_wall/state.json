@@ -1,0 +1,11 @@
+{
+  "tileset_id": "3dd1cf28-eb99-4965-8c86-5bbe8f18dabb",
+  "lower": "overgrown graveyard ground, packed brown dirt with scattered grey cobblestones and small patches of dull green moss, gentle shading, SNES Zelda A Link to the Past style, not neon",
+  "upper": "crumbling grey stone wall seen from above, thick top of rough stacked grey stone blocks with cracks and a little moss, SNES Zelda A Link to the Past style",
+  "size": "32",
+  "transition": "dark shadow at the base of the stone wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme1_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

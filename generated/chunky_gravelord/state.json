@@ -1,0 +1,13 @@
+{
+  "character_id": "150dbaf8-49c9-4b50-be09-e39022f38a42",
+  "description": "stocky undead knight king boss with a big skull head with glowing eyes and a golden crown, broad dark iron plate armor, tattered purple cape, big sword, chunky SNES RPG boss",
+  "size": 30,
+  "proportions": {
+    "head_size": 1.6,
+    "legs_length": 0.55,
+    "arms_length": 0.85,
+    "shoulder_width": 1.5,
+    "hip_width": 1.3,
+    "type": "custom"
+  }
+}

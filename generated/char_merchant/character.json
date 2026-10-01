@@ -1,0 +1,83 @@
+{
+  "id": "053f77e6-28f2-4541-b275-a81989db3505",
+  "name": "plump friendly village merchant shopkeeper, round ...",
+  "state_name": "Idle",
+  "prompt": "plump friendly village merchant shopkeeper, round belly, brown apron over a white shirt, small mustache, brown cap, fantasy RPG villager",
+  "size": {
+    "width": 48,
+    "height": 48
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T12:31:17.569109+00:00",
+  "updated_at": "2026-09-30T12:32:26.601791+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/rotations/south.png?t=1790771546",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/rotations/west.png?t=1790771546",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/rotations/east.png?t=1790771546",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/rotations/north.png?t=1790771546",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "3aa5d6f8-adba-46d2-b505-a144248b09a1",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "5ffc9211-6360-4d49-8d32-45d3b54afdea",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/0250fb17-3b1b-4844-8516-615921170e2f/south/0.png?t=1790773089",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/0250fb17-3b1b-4844-8516-615921170e2f/south/1.png?t=1790773089",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/0250fb17-3b1b-4844-8516-615921170e2f/south/2.png?t=1790773089",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/0250fb17-3b1b-4844-8516-615921170e2f/south/3.png?t=1790773089"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "28ccca1f-0f4f-48eb-bd43-21a51f15c890",
+      "directions": [
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/8a73d147-2987-4be2-8444-8e7755adc931/north/0.png?t=1790775634",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/8a73d147-2987-4be2-8444-8e7755adc931/north/1.png?t=1790775634",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/8a73d147-2987-4be2-8444-8e7755adc931/north/2.png?t=1790775634",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/8a73d147-2987-4be2-8444-8e7755adc931/north/3.png?t=1790775634"
+          ]
+        },
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/61858f1b-aad9-4941-a9de-a29faf0759cd/east/0.png?t=1790775713",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/61858f1b-aad9-4941-a9de-a29faf0759cd/east/1.png?t=1790775713",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/61858f1b-aad9-4941-a9de-a29faf0759cd/east/2.png?t=1790775713",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/053f77e6-28f2-4541-b275-a81989db3505/animations/61858f1b-aad9-4941-a9de-a29faf0759cd/east/3.png?t=1790775713"
+          ]
+        }
+      ]
+    }
+  ]
+}

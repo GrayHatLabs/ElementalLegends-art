@@ -1,0 +1,538 @@
+{
+  "sprites": {
+    "obj_big_boulder": {
+      "file": "obj_big_boulder.png",
+      "cell": [
+        48,
+        44
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_big_chest_closed": {
+      "file": "obj_big_chest_closed.png",
+      "cell": [
+        40,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_big_chest_open": {
+      "file": "obj_big_chest_open.png",
+      "cell": [
+        40,
+        32
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_block_blue_down": {
+      "file": "obj_block_blue_down.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_block_blue_up": {
+      "file": "obj_block_blue_up.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_block_orange_down": {
+      "file": "obj_block_orange_down.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_block_orange_up": {
+      "file": "obj_block_orange_up.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_boulder": {
+      "file": "obj_boulder.png",
+      "cell": [
+        22,
+        20
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crate": {
+      "file": "obj_crate.png",
+      "cell": [
+        20,
+        20
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crate_broken": {
+      "file": "obj_crate_broken.png",
+      "cell": [
+        20,
+        20
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crystal_earth": {
+      "file": "obj_crystal_earth.png",
+      "cell": [
+        16,
+        28
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "lit": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crystal_fire": {
+      "file": "obj_crystal_fire.png",
+      "cell": [
+        16,
+        28
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "lit": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crystal_ice": {
+      "file": "obj_crystal_ice.png",
+      "cell": [
+        16,
+        28
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "lit": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crystal_storm": {
+      "file": "obj_crystal_storm.png",
+      "cell": [
+        16,
+        28
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "lit": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crystal_switch_blue": {
+      "file": "obj_crystal_switch_blue.png",
+      "cell": [
+        16,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_crystal_switch_orange": {
+      "file": "obj_crystal_switch_orange.png",
+      "cell": [
+        16,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_floor_switch_down": {
+      "file": "obj_floor_switch_down.png",
+      "cell": [
+        16,
+        16
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_floor_switch_up": {
+      "file": "obj_floor_switch_up.png",
+      "cell": [
+        16,
+        16
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_gap_post": {
+      "file": "obj_gap_post.png",
+      "cell": [
+        16,
+        26
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_ice_block": {
+      "file": "obj_ice_block.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_lock_door_big": {
+      "file": "obj_lock_door_big.png",
+      "cell": [
+        48,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_lock_door_small": {
+      "file": "obj_lock_door_small.png",
+      "cell": [
+        48,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_lore_tablet": {
+      "file": "obj_lore_tablet.png",
+      "cell": [
+        18,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_pot": {
+      "file": "obj_pot.png",
+      "cell": [
+        16,
+        18
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_pot_broken": {
+      "file": "obj_pot_broken.png",
+      "cell": [
+        16,
+        18
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_whip_post": {
+      "file": "obj_whip_post.png",
+      "cell": [
+        16,
+        26
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "relic_items": {
+      "file": "relic_items.png",
+      "cell": [
+        16,
+        16
+      ],
+      "anims": {
+        "vine_whip": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "spirit_lantern": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        },
+        "titan_gloves": {
+          "row": 2,
+          "frames": 1,
+          "fps": 1
+        },
+        "ember_boots": {
+          "row": 3,
+          "frames": 1,
+          "fps": 1
+        },
+        "feather_cloak": {
+          "row": 4,
+          "frames": 1,
+          "fps": 1
+        },
+        "dungeon_map": {
+          "row": 5,
+          "frames": 1,
+          "fps": 1
+        },
+        "finder": {
+          "row": 6,
+          "frames": 1,
+          "fps": 1
+        },
+        "small_key": {
+          "row": 7,
+          "frames": 1,
+          "fps": 1
+        },
+        "big_key": {
+          "row": 8,
+          "frames": 1,
+          "fps": 1
+        },
+        "lore_tablet_icon": {
+          "row": 9,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "relic_items_big": {
+      "file": "relic_items_big.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "vine_whip": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "spirit_lantern": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        },
+        "titan_gloves": {
+          "row": 2,
+          "frames": 1,
+          "fps": 1
+        },
+        "ember_boots": {
+          "row": 3,
+          "frames": 1,
+          "fps": 1
+        },
+        "feather_cloak": {
+          "row": 4,
+          "frames": 1,
+          "fps": 1
+        },
+        "dungeon_map": {
+          "row": 5,
+          "frames": 1,
+          "fps": 1
+        },
+        "finder": {
+          "row": 6,
+          "frames": 1,
+          "fps": 1
+        },
+        "big_key": {
+          "row": 7,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "tile_lava": {
+      "file": "tile_lava.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 4
+        }
+      }
+    },
+    "tile_pit": {
+      "file": "tile_pit.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "tile_thorns": {
+      "file": "tile_thorns.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    }
+  }
+}

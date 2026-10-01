@@ -1,0 +1,1 @@
+HTTP 429 on /animate-character: {"detail":"Maximum 8 concurrent background jobs allowed (Tier 1). You have 8 active jobs."}

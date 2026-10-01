@@ -1,0 +1,11 @@
+{
+  "tileset_id": "92149276-4ddd-459e-b979-a1c3709e608b",
+  "lower": "glowing molten orange lava with bright yellow hot spots and darker red crust swirls, SNES Zelda A Link to the Past style lava",
+  "upper": "fortress dungeon floor of dark red-black stone tiles with a few small glowing orange lava glints in the cracks, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "size": "32",
+  "transition": "dark red stone edge glowing hot orange",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme7_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "f95adac6-056d-42c6-90c7-22adcd006d83"
+}

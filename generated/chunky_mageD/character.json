@@ -1,0 +1,93 @@
+{
+  "id": "8b44f28f-87d0-4f2e-8859-fa1d77bbce6f",
+  "name": "short stocky wizard with a big head, pointed grey ...",
+  "state_name": "Idle",
+  "prompt": "short stocky wizard with a big head, pointed grey hat, long plain grey robe, white beard, holding a wooden staff with an orange glowing gem, chunky SNES RPG hero",
+  "size": {
+    "width": 36,
+    "height": 36
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:32:34.750048+00:00",
+  "updated_at": "2026-09-30T15:33:11.700842+00:00",
+  "animation_count": 4,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/rotations/south.png?t=1790782391",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/rotations/west.png?t=1790782391",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/rotations/east.png?t=1790782391",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/rotations/north.png?t=1790782391",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "59d38291-3a64-4d8f-a8ed-0b28da932645",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "fb5748d6-382a-4a79-98a2-73e1ef50a309",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfb5a5b1-c794-4671-8b38-60f18e95e684/south/0.png?t=1790782676",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfb5a5b1-c794-4671-8b38-60f18e95e684/south/1.png?t=1790782676",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfb5a5b1-c794-4671-8b38-60f18e95e684/south/2.png?t=1790782676",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfb5a5b1-c794-4671-8b38-60f18e95e684/south/3.png?t=1790782676"
+          ]
+        },
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/d2fde011-95c8-4d28-bf3e-36e104280946/north/0.png?t=1790782829",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/d2fde011-95c8-4d28-bf3e-36e104280946/north/1.png?t=1790782829",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/d2fde011-95c8-4d28-bf3e-36e104280946/north/2.png?t=1790782829",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/d2fde011-95c8-4d28-bf3e-36e104280946/north/3.png?t=1790782829"
+          ]
+        },
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/5e88d21a-031e-4ae0-9dc5-2aba8e828300/east/0.png?t=1790782926",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/5e88d21a-031e-4ae0-9dc5-2aba8e828300/east/1.png?t=1790782926",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/5e88d21a-031e-4ae0-9dc5-2aba8e828300/east/2.png?t=1790782926",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/5e88d21a-031e-4ae0-9dc5-2aba8e828300/east/3.png?t=1790782926"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking forward holding a tall",
+      "display_name": "walking forward holding a tall wooden staff upright in one hand",
+      "animation_group_id": "13a3e579-b35b-427d-a430-7501e81519ae",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfac9105-91ac-462a-8ae3-5fbea8a6b39b/south/0.png?t=1790783159",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfac9105-91ac-462a-8ae3-5fbea8a6b39b/south/1.png?t=1790783159",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfac9105-91ac-462a-8ae3-5fbea8a6b39b/south/2.png?t=1790783159",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/8b44f28f-87d0-4f2e-8859-fa1d77bbce6f/animations/cfac9105-91ac-462a-8ae3-5fbea8a6b39b/south/3.png?t=1790783159"
+          ]
+        }
+      ]
+    }
+  ]
+}

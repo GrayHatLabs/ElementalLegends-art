@@ -1,0 +1,11 @@
+{
+  "tileset_id": "9857173b-aa15-48c8-9f94-cd96c69e35dc",
+  "lower": "sanctuary floor of polished pale blue marble tiles with soft white veins, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "upper": "raised wall of large blue-grey marble blocks seen from above, smooth carved edges, SNES Zelda A Link to the Past style dungeon",
+  "size": "32",
+  "transition": "soft dark blue shadow at the base of the marble wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme8_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

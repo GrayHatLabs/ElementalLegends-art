@@ -1,0 +1,390 @@
+{
+  "tile_size": 24,
+  "source_tile_size": 32,
+  "atlas_layout": "4x4 grid of 24x24 tiles; tile with Wang index k is at column k%4, row k//4",
+  "wang_index": "k = NW*8 + NE*4 + SW*2 + SE, where a corner is 1 if it is the UPPER terrain",
+  "downscale": "32px PixelLab tiles -> 24px with Pillow NEAREST",
+  "notes": "Water atlases have their floor pixels replaced with the wall atlas floor tile (tools/floorswap.py) so wall-atlas index 0 and water-atlas index 15 are the identical floor tile.",
+  "themes": [
+    {
+      "index": 0,
+      "name": "GREENWOOD",
+      "wall": {
+        "file": "theme0_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "rich medium green grass field with scattered short darker green grass tufts, gentle shading, SNES Zelda A Link to the Past overworld grass, not pale, not neon",
+        "upper_prompt": "thick forest of large round tree crowns seen from directly above, big fluffy leaf clusters, bright green highlights on top, darker green shading underneath, SNES Zelda A Link to the Past trees",
+        "transition_prompt": "tree crown shadow falling on the grass",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme0_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "clear calm blue pond water with gentle wave highlights, SNES Zelda A Link to the Past water, not neon",
+        "upper_prompt": "rich medium green grass field with scattered short darker green grass tufts, gentle shading, SNES Zelda A Link to the Past overworld grass, not pale, not neon",
+        "transition_prompt": "grassy bank edge with a thin darker shoreline",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {
+        "tree": {
+          "file": "theme0_deco_tree.png",
+          "prompt": "single round leafy green tree with short brown trunk, SNES Zelda A Link to the Past style overworld tree, muted rich greens"
+        },
+        "bush": {
+          "file": "theme0_deco_bush.png",
+          "prompt": "small round green leafy bush, SNES Zelda A Link to the Past style liftable bush, muted rich greens"
+        },
+        "flowers": {
+          "file": "theme0_deco_flowers.png",
+          "prompt": "small patch of white and yellow and red flowers with a few green leaves, SNES Zelda A Link to the Past style flowers"
+        }
+      },
+      "palette_images": {
+        "wall": "generated/palettes/theme0_wall.png",
+        "water": "generated/palettes/theme0_water.png",
+        "deco": "generated/palettes/theme0_deco.png"
+      }
+    },
+    {
+      "index": 1,
+      "name": "OLD CRYPT",
+      "wall": {
+        "file": "theme1_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "overgrown graveyard ground, packed brown dirt with scattered grey cobblestones and small patches of dull green moss, gentle shading, SNES Zelda A Link to the Past style, not neon",
+        "upper_prompt": "crumbling grey stone wall seen from above, thick top of rough stacked grey stone blocks with cracks and a little moss, SNES Zelda A Link to the Past style",
+        "transition_prompt": "dark shadow at the base of the stone wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme1_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+        "upper_prompt": "overgrown graveyard ground, packed brown dirt with scattered grey cobblestones and small patches of dull green moss, gentle shading, SNES Zelda A Link to the Past style, not neon",
+        "transition_prompt": "muddy stone-lined bank edge",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {
+        "tombstone": {
+          "file": "theme1_deco_tombstone.png",
+          "prompt": "single weathered grey rounded tombstone with a crack, SNES Zelda A Link to the Past style graveyard, muted colors"
+        },
+        "deadtree": {
+          "file": "theme1_deco_deadtree.png",
+          "prompt": "small leafless dead tree with twisted grey-brown branches, SNES Zelda A Link to the Past style, muted colors"
+        },
+        "cross": {
+          "file": "theme1_deco_cross.png",
+          "prompt": "single old grey stone cross grave marker with moss at the base, SNES Zelda A Link to the Past style, muted colors"
+        }
+      },
+      "palette_images": {
+        "wall": "generated/palettes/theme1_wall.png",
+        "water": "generated/palettes/theme1_water.png",
+        "deco": "generated/palettes/theme1_deco.png"
+      }
+    },
+    {
+      "index": 2,
+      "name": "MIREFEN",
+      "wall": {
+        "file": "theme2_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "murky swamp ground, dark olive-brown mud with patches of dull green moss and small puddle spots, gentle shading, SNES Zelda A Link to the Past style, not neon",
+        "upper_prompt": "raised mass of big round grey stone boulders heavily covered in bright green moss, seen from above, strong light tops and dark shadowed gaps between boulders, clearly lighter than the mud ground, SNES Zelda A Link to the Past style",
+        "transition_prompt": "damp dark shadow around the mossy boulders",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme2_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "dark murky green-brown swamp water, clearly liquid, with pale green reflection ripples and a few floating lily pads, SNES Zelda A Link to the Past style, not neon",
+        "upper_prompt": "murky swamp ground, dark olive-brown mud with patches of dull green moss and small puddle spots, gentle shading, SNES Zelda A Link to the Past style, not neon",
+        "transition_prompt": "muddy mossy swamp bank",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {
+        "reeds": {
+          "file": "theme2_deco_reeds.png",
+          "prompt": "clump of tall swamp reeds and cattails, olive green and brown, SNES Zelda A Link to the Past style, muted colors"
+        },
+        "mushrooms": {
+          "file": "theme2_deco_mushrooms.png",
+          "prompt": "cluster of three toadstool mushrooms with round red-brown caps with pale spots and short cream stems, SNES Zelda A Link to the Past style, muted colors"
+        },
+        "stump": {
+          "file": "theme2_deco_stump.png",
+          "prompt": "rotting dead tree stump with moss, dark brown wood, SNES Zelda A Link to the Past style, muted colors"
+        }
+      },
+      "palette_images": {
+        "wall": "generated/palettes/theme2_wall.png",
+        "water": "generated/palettes/theme2_water.png",
+        "deco": "generated/palettes/theme2_deco.png"
+      }
+    },
+    {
+      "index": 3,
+      "name": "EMBERPEAK",
+      "wall": {
+        "file": "theme3_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "dark grey volcanic rock ground with a few thin faint glowing orange cracks, gentle shading, SNES Zelda A Link to the Past style, not neon",
+        "upper_prompt": "raised jagged black basalt rock plateau seen from above, angular dark grey columns with sharp highlights, SNES Zelda A Link to the Past style",
+        "transition_prompt": "dark shadow at the foot of the basalt rocks",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme3_water.png",
+        "lower": "lava (hazard)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "glowing molten orange lava with bright yellow hot spots and darker red crust swirls, SNES Zelda A Link to the Past style lava",
+        "upper_prompt": "dark grey volcanic rock ground with a few thin faint glowing orange cracks, gentle shading, SNES Zelda A Link to the Past style, not neon",
+        "transition_prompt": "cooling black rock crust edge glowing orange",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {
+        "lavarock": {
+          "file": "theme3_deco_lavarock.png",
+          "prompt": "single dark volcanic boulder with glowing orange cracks, SNES Zelda A Link to the Past style, muted colors"
+        },
+        "obsidian": {
+          "file": "theme3_deco_obsidian.png",
+          "prompt": "cluster of three jagged black volcanic glass rock shards pointing up from the ground, glossy dark purple highlights, no handle, SNES Zelda A Link to the Past style"
+        },
+        "charredtree": {
+          "file": "theme3_deco_charredtree.png",
+          "prompt": "small burnt charred black dead tree with a few glowing embers, SNES Zelda A Link to the Past style"
+        }
+      },
+      "palette_images": {
+        "wall": "generated/palettes/theme3_wall.png",
+        "water": "generated/palettes/theme3_water.png",
+        "deco": "generated/palettes/theme3_deco.png"
+      }
+    },
+    {
+      "index": 4,
+      "name": "OVERGROWN SHRINE",
+      "wall": {
+        "file": "theme4_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "dungeon floor of mostly grey square stone flagstones with small tufts of green moss in the cracks, simple and calm, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "upper_prompt": "raised wall top of big light grey stone bricks overgrown with leafy green ivy vines, bright leaf highlights, seen from above, SNES Zelda A Link to the Past style dungeon",
+        "transition_prompt": "dark shadow at the base of the vine-covered wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme4_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+        "upper_prompt": "dungeon floor of mostly grey square stone flagstones with small tufts of green moss in the cracks, simple and calm, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "transition_prompt": "stone pool edge with moss",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {},
+      "palette_images": {
+        "wall": "generated/palettes/theme4_wall.png",
+        "water": "generated/palettes/theme4_water.png"
+      }
+    },
+    {
+      "index": 5,
+      "name": "UNDERGROUND CRYPT",
+      "wall": {
+        "file": "theme5_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "dungeon floor of dark grey square stone flagstones with thin dark mortar lines, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "upper_prompt": "raised dungeon wall of grey stone bricks seen from above, thick solid brick wall top, SNES Zelda A Link to the Past style dungeon",
+        "transition_prompt": "dark shadow at the base of the brick wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme5_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+        "upper_prompt": "dungeon floor of dark grey square stone flagstones with thin dark mortar lines, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "transition_prompt": "grey stone pool edge",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {},
+      "palette_images": {
+        "wall": "generated/palettes/theme5_wall.png",
+        "water": "generated/palettes/theme5_water.png"
+      }
+    },
+    {
+      "index": 6,
+      "name": "RUINED CASTLE",
+      "wall": {
+        "file": "theme6_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "castle dungeon floor of worn tan and light brown stone tiles with small cracks, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "upper_prompt": "raised castle wall of large sandstone blocks seen from above, warm tan and brown, SNES Zelda A Link to the Past style dungeon",
+        "transition_prompt": "dark shadow at the base of the sandstone wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme6_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+        "upper_prompt": "castle dungeon floor of worn tan and light brown stone tiles with small cracks, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "transition_prompt": "tan stone moat edge",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {},
+      "palette_images": {
+        "wall": "generated/palettes/theme6_wall.png",
+        "water": "generated/palettes/theme6_water.png"
+      }
+    },
+    {
+      "index": 7,
+      "name": "DRAGON FORTRESS",
+      "wall": {
+        "file": "theme7_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "fortress dungeon floor of large simple dark charcoal-red square stone tiles with a few small glowing orange lava cracks, calm, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "upper_prompt": "tall raised fortress wall of charred black bricks with lighter grey-brown brick tops and a strong dark shadow, clearly different from the red floor, seen from above, SNES Zelda A Link to the Past style dungeon",
+        "transition_prompt": "dark soot shadow at the base of the charred wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme7_water.png",
+        "lower": "lava (hazard)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "glowing molten orange lava with bright yellow hot spots and darker red crust swirls, SNES Zelda A Link to the Past style lava",
+        "upper_prompt": "fortress dungeon floor of large simple dark charcoal-red square stone tiles with a few small glowing orange lava cracks, calm, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "transition_prompt": "dark red stone edge glowing hot orange",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {},
+      "palette_images": {
+        "wall": "generated/palettes/theme7_wall.png",
+        "water": "generated/palettes/theme7_water.png"
+      }
+    },
+    {
+      "index": 8,
+      "name": "FORGOTTEN SANCTUARY",
+      "wall": {
+        "file": "theme8_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "sanctuary floor of polished pale blue marble tiles with soft white veins, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "upper_prompt": "raised wall of large blue-grey marble blocks seen from above, smooth carved edges, SNES Zelda A Link to the Past style dungeon",
+        "transition_prompt": "soft dark blue shadow at the base of the marble wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme8_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "deep clear medium blue water, darker and more saturated than the pale marble, gentle white wave highlights, SNES Zelda A Link to the Past style water, not neon",
+        "upper_prompt": "sanctuary floor of polished pale blue marble tiles with soft white veins, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "transition_prompt": "blue marble pool edge",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {},
+      "palette_images": {
+        "wall": "generated/palettes/theme8_wall.png",
+        "water": "generated/palettes/theme8_water.png"
+      }
+    },
+    {
+      "index": 9,
+      "name": "DARK TOWER",
+      "wall": {
+        "file": "theme9_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "tower floor of glossy purple-black obsidian tiles with faint violet highlights, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "upper_prompt": "raised tower wall of dark purple stone bricks seen from above, SNES Zelda A Link to the Past style dungeon",
+        "transition_prompt": "deep dark shadow at the base of the purple brick wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15
+      },
+      "water": {
+        "file": "theme9_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+        "upper_prompt": "tower floor of glossy purple-black obsidian tiles with faint violet highlights, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+        "transition_prompt": "obsidian pool edge",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15
+      },
+      "decos": {},
+      "palette_images": {
+        "wall": "generated/palettes/theme9_wall.png",
+        "water": "generated/palettes/theme9_water.png"
+      }
+    },
+    {
+      "index": 10,
+      "name": "SHOP INTERIOR",
+      "wall": {
+        "file": "theme10_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "warm honey-brown wooden plank floor of long horizontal boards with thin dark seams and tiny nail dots, cosy house interior, gentle shading, SNES Zelda A Link to the Past style house interior floor, not neon",
+        "upper_prompt": "raised interior house wall seen from above, thick wall top of smooth cream plaster framed by dark brown timber beams, cosy cottage interior, SNES Zelda A Link to the Past style house interior wall, not stone, not brick",
+        "transition_prompt": "dark wooden wainscot skirting board with a soft shadow at the base of the wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15,
+        "postprocess": "flat cream wall pixels repainted locally with a seamless 24px half-timber pattern (tools/shop_gen.py timber_texture/painted_atlas)"
+      },
+      "decos": {
+        "crate": {
+          "file": "theme10_deco_crate.png",
+          "prompt": "single small square wooden storage crate with dark planks and corner nails, SNES Zelda A Link to the Past style, warm browns"
+        },
+        "sacks": {
+          "file": "theme10_deco_sacks.png",
+          "prompt": "two plump tied burlap grain sacks leaning together, pale tan cloth, SNES Zelda A Link to the Past style, warm muted colors"
+        },
+        "pot": {
+          "file": "theme10_deco_pot.png",
+          "prompt": "single round clay pot with a small green potted plant, terracotta orange-brown, SNES Zelda A Link to the Past style"
+        }
+      },
+      "palette_images": {
+        "wall": "generated/shop_palettes/theme10_wall.png",
+        "deco": "generated/shop_palettes/theme10_deco.png"
+      },
+      "notes": "Indoor theme: no water/lava set (importer treats a missing water atlas as None)."
+    }
+  ]
+}

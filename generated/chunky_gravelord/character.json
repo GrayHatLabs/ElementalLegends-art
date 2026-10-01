@@ -1,0 +1,38 @@
+{
+  "id": "150dbaf8-49c9-4b50-be09-e39022f38a42",
+  "name": "stocky undead knight king boss with a big skull he...",
+  "state_name": "Idle",
+  "prompt": "stocky undead knight king boss with a big skull head with glowing eyes and a golden crown, broad dark iron plate armor, tattered purple cape, big sword, chunky SNES RPG boss",
+  "size": {
+    "width": 44,
+    "height": 44
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:47:41.732714+00:00",
+  "updated_at": "2026-09-30T15:48:22.707913+00:00",
+  "animation_count": 0,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/150dbaf8-49c9-4b50-be09-e39022f38a42/rotations/south.png?t=1790783302",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/150dbaf8-49c9-4b50-be09-e39022f38a42/rotations/west.png?t=1790783302",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/150dbaf8-49c9-4b50-be09-e39022f38a42/rotations/east.png?t=1790783302",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/150dbaf8-49c9-4b50-be09-e39022f38a42/rotations/north.png?t=1790783302",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "ba74a6ac-95d5-40ac-9257-4960762493f9",
+  "skeletons": null,
+  "animations": []
+}

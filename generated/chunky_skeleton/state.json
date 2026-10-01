@@ -1,0 +1,13 @@
+{
+  "character_id": "c37928c0-e1d2-4d80-9148-e3e52015b6e4",
+  "description": "short stocky skeleton warrior with a big skull head, white bones, wearing a plain grey tattered tunic and grey iron helmet, holding a small grey rusty sword, chunky SNES RPG enemy",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

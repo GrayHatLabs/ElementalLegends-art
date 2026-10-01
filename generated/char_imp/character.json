@@ -1,0 +1,76 @@
+{
+  "id": "6c9ef3e9-446e-43e8-a492-ab859c6f9816",
+  "name": "small imp demon with plain grey skin, two small ho...",
+  "state_name": "Idle",
+  "prompt": "small imp demon with plain grey skin, two small horns, little bat wings, pointy tail, mischievous grin, fantasy RPG enemy",
+  "size": {
+    "width": 48,
+    "height": 48
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T12:31:17.749809+00:00",
+  "updated_at": "2026-09-30T12:32:16.392079+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/rotations/south.png?t=1790771536",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/rotations/west.png?t=1790771536",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/rotations/east.png?t=1790771536",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/rotations/north.png?t=1790771536",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "35695a83-1e93-4668-8c1e-8d3eb456b0f0",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "112bee60-c684-457a-b77a-037d9b566fd3",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/bde39279-0bd7-42c2-a43c-c818645e5c03/south/0.png?t=1790773388",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/bde39279-0bd7-42c2-a43c-c818645e5c03/south/1.png?t=1790773388",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/bde39279-0bd7-42c2-a43c-c818645e5c03/south/2.png?t=1790773388",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/bde39279-0bd7-42c2-a43c-c818645e5c03/south/3.png?t=1790773388"
+          ]
+        },
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/5e2dddfa-bf36-4ecb-aaa7-b48ca49c1a06/north/0.png?t=1790773724",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/5e2dddfa-bf36-4ecb-aaa7-b48ca49c1a06/north/1.png?t=1790773724",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/5e2dddfa-bf36-4ecb-aaa7-b48ca49c1a06/north/2.png?t=1790773724",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/5e2dddfa-bf36-4ecb-aaa7-b48ca49c1a06/north/3.png?t=1790773724"
+          ]
+        },
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/756fdc64-fe82-4069-873c-891f30b18ac1/east/0.png?t=1790774120",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/756fdc64-fe82-4069-873c-891f30b18ac1/east/1.png?t=1790774120",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/756fdc64-fe82-4069-873c-891f30b18ac1/east/2.png?t=1790774120",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6c9ef3e9-446e-43e8-a492-ab859c6f9816/animations/756fdc64-fe82-4069-873c-891f30b18ac1/east/3.png?t=1790774120"
+          ]
+        }
+      ]
+    }
+  ]
+}

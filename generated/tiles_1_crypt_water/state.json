@@ -1,0 +1,11 @@
+{
+  "tileset_id": "bc38a4a8-09c8-4cae-b186-4c112ad5dd24",
+  "lower": "clear calm blue water with gentle wave highlights, SNES Zelda A Link to the Past style water, not neon",
+  "upper": "overgrown graveyard ground, packed brown dirt with scattered grey cobblestones and small patches of dull green moss, gentle shading, SNES Zelda A Link to the Past style, not neon",
+  "size": "32",
+  "transition": "muddy stone-lined bank edge",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme1_water.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "8e906b9c-31f2-4151-816d-ec204d4e1612"
+}

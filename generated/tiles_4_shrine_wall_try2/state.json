@@ -1,0 +1,11 @@
+{
+  "tileset_id": "9d8a8787-8a30-4c5b-afa4-c10daee72ea7",
+  "lower": "dungeon floor of mostly grey square stone flagstones with small tufts of green moss in the cracks, simple and calm, gentle shading, SNES Zelda A Link to the Past style dungeon, not neon",
+  "upper": "tall raised wall of large pale grey stone blocks draped with green ivy vines, lighter than the floor, with a dark shadowed south face, seen from above, SNES Zelda A Link to the Past style dungeon",
+  "size": "32",
+  "transition": "dark shadow at the base of the vine-covered wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\palettes\\theme4_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": ""
+}

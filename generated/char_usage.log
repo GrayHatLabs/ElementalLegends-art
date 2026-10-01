@@ -1,0 +1,121 @@
+2026-09-30 06:22:55 skeleton character job=ca6ddf3b-45fe-46b5-b0c0-d8a90ab8aa72 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:24:16 skeleton character job=7161eb3a-698f-4fcf-99a3-748395c4b4aa status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:26:04 skeleton animate job=ad5f63b2-310b-4d31-aea0-b11df4c697db status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:27:46 skeleton animate job=8ec0a26a-2bcb-4c75-ba48-2592092ef336 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:28:51 skeleton animate job=1efb179b-a095-49b7-b136-f4f8d0fe30b2 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:31:53 zombie character job=6c8413b1-efff-45b8-b455-515b3ba6268e status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:31:58 dryad character job=ed8836b0-87a4-4e0d-91aa-0b35d4fd4f1f status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:32:10 gravelord character job=49ebdfb4-0a25-43d9-a34f-9e37980ef2ee status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:32:21 imp character job=bc12c99c-a259-418c-abe0-13cb27cd5540 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:32:28 merchant character job=7ce1db1a-420a-42fa-b6c3-ceb280e21add status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:32:52 slime bitforge base.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:33:35 bat bitforge base.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:33:41 zombie animate job=a456356c-511e-4513-8b39-94914ffbc73c status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:34:12 ghost bitforge base.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:34:43 golem bitforge base.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:34:57 zombie animate job=51405071-e099-453d-a5ca-623df650e092 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:35:22 slime bitforge base2.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:35:56 bat bitforge base2.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:36:24 ghost bitforge base2.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:36:44 golem bitforge base2.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:38:08 bat animtext fly job=baf5cee7-8fdc-4f55-9d9e-7f4890b07ed8 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:38:58 slime bitforge base3.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:39:30 ghost bitforge base3.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:40:16 slime bitforge base4.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:40:38 ghost bitforge base4.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:41:25 generator bitforge base.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:41:42 zombie animate job=930fd758-37fe-4133-bd87-bf2f9c74df4b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:41:59 treant bitforge base.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:42:19 hoarddragon bitforge base.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:42:57 generator bitforge base2.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:43:31 items bitforge coin.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:43:51 items bitforge gem.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:43:55 dryad animate job=c84332e6-9d72-471d-be4a-31b70d55f3ec status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:44:18 items bitforge apple.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:44:47 items bitforge golden_apple.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:45:12 items bitforge bread.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:45:42 items bitforge meat.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:46:00 items bitforge mana_potion.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:46:13 items bitforge antidote.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:46:29 items bitforge heart.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:46:56 items bitforge heart_container.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:47:28 items bitforge key.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:47:55 items bitforge chest_closed.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:48:29 items bitforge chest_open.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:48:54 items bitforge gold_pile.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:49:48 items bitforge gem.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:50:05 items bitforge chest_closed.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:50:36 items bitforge gold_pile.png {"type": "generations", "generations": 1.0}
+2026-09-30 06:53:42 dryad character job=30bc05f6-df22-43d0-a9bb-fc22e9e76a20 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:54:49 slime animtext idle job=226045aa-051e-48cc-b878-3ea0380e7041 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:56:02 dryad animate job=37124356-b98f-41cc-a5fd-f71615383ad2 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:56:34 slime animtext move job=cf78c394-29ea-4397-b314-5902cc83bd5a status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:57:39 ghost animtext idle job=b3534caa-8d73-4055-a88b-df3fad8cec12 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 06:58:37 ghost animtext move job=5d2c751a-110a-4663-b240-bf86bace1403 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:03:12 imp animate job=608c8742-7ae7-4a53-be3b-3f66ed3e6ee1 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:04:07 golem animtext idle job=20fe2604-da01-4481-acfe-3a34c3c15e1a status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:07:01 golem animtext move job=b88ef03a-8719-407b-a236-119b3e214816 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:08:36 generator animtext idle job=e170de28-95eb-40cf-aa34-78b8d44139da status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:08:47 imp animate job=c2c44dfd-0539-4726-a3b5-dd36f8ec75c3 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:10:29 treant animtext idle job=01008c61-db77-4247-a116-197b7eb74556 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:11:50 treant animtext move job=9dc7e1a7-026e-4030-8ac0-f2c863fadaba status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:12:45 hoarddragon animtext idle job=10d8d20c-e78b-4c1f-acb9-96874e2584fa status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:15:10 hoarddragon animtext awake job=9f25e523-c3b2-4fc4-9feb-f1999bb81ebb status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:15:25 imp animate job=a02bf5c6-a71a-4656-8a57-9a95fa1c5f34 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:16:27 items animtext coin_spin job=989ee1ce-1555-4a85-92e6-f1f746b96d09 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:40:36 merchant animate job=4cb9e018-65b5-4d6c-bbb2-d1eb26d208ae status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:41:57 merchant animate job=f6518a51-96e3-49c7-9724-01b8a5252540 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:43:52 gravelord animate job=db42b975-26a2-4e86-b3b6-8be53a951bcb status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:45:35 dryad animate job=2b1efc1b-eba3-40ad-883e-abd0ae582bce status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 07:48:11 dryad animate job=8c9d37bd-3dc7-498d-890e-5d8ced0adc11 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:30:37 chunky mageC character job=70431161-e4d0-45d8-afef-776dce3f8d5f status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:30:43 chunky mageB character job=badc40cc-1c80-414e-b1ca-ae9600b94a29 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:31:49 chunky mageA character job=e92bbd54-8971-4a4a-9300-5ecb3442f0a6 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:33:15 chunky mageD character job=7e58e519-abfa-4a7a-b03f-6c8028b74f5b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:33:22 chunky mageF character job=150bfd6b-aaf3-4976-aeb1-43cd067705dd status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:33:38 chunky mageE character job=9c57a19b-5518-4634-98f3-d20643656db1 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:37:57 chunky mageD animate job=0a6ae046-fde5-401d-8bb9-a1fc246c8896 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:40:32 chunky mageD animate job=c963ac0b-1213-46d7-829c-6f1d935a3270 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:42:08 chunky mageD animate job=6c625b6d-bcb0-4d7a-9f28-efe32ae751d7 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:46:01 chunky mageD animate job=06fa75c1-baf5-4ec2-9855-95629b722757 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:06 chunky innkeeper character job=4fd25773-9e98-42e5-aaf5-e395fc00a581 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:11 chunky dryad character job=1b589dfd-2502-40ab-81c8-3f8eaeeafc4b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:19 chunky imp character job=a15ccfcd-7500-4b26-9c09-07b8e981e5bb status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:22 chunky skeleton character job=b4411c74-39b2-4e26-ae65-5a46278329b1 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:24 chunky zombie character job=37def07a-7c88-48fe-85bd-96ca4c74ed92 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:27 chunky merchant character job=e3f31eb8-3251-49e8-b61e-a01d6d6850d4 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:28 chunky gravelord character job=6ffbd91a-4b25-4841-aabd-2f7e2b2cd778 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:48:34 chunky scholar character job=7bbba1e5-974f-4d22-a8c9-e6aa3af3e26b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:50:28 chunky merchant2 character job=4f45cea6-e6d2-4d07-bd25-49df6aef18d9 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:50:37 chunky skeleton3 character job=2fcb493b-0423-4737-b375-082665752b3b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:50:41 chunky gravelord3 character job=9af3da50-4803-432e-8ab3-20afcf57503c status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:50:47 chunky gravelord2 character job=aa9d55ea-27cf-404d-9e2b-71bbfc0c7e58 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:50:49 chunky skeleton2 character job=30337fbd-5b46-43c5-ba69-bbae1525d7e5 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:50:51 chunky scholar2 character job=4eef2c78-9da5-4fdf-9c3e-04e163e55c19 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:51:07 chunky merchant3 character job=c56eb5e3-900c-43bb-b017-589325992d07 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:51:20 chunky scholar3 character job=f8a630cf-2dc2-4238-b779-7a24d88873ab status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:53:56 chunky skeleton2 animate job=f5c96ade-5326-4681-b753-a1dbbbe89e6b status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 09:57:35 chunky zombie animate job=d030c1b9-5a7e-4837-9501-606a56eea83c status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:00:17 chunky dryad animate job=24a2d043-2c71-40f7-b5ab-bbebab372bea status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:03:40 chunky innkeeper animate job=653db6e6-bdb6-454e-ac98-0fd6d920226a status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:09:07 chunky gravelord3 animate job=718ecd44-90b4-496b-a2c3-f0c2e13bd155 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:13:53 chunky scholar3 animate job=7add6ea0-b241-4d17-ad90-1eae5aa955f0 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:19:09 chunky merchant2 animate job=7f3f6fb8-cfe0-429b-a8fb-d09e6c4bdaa1 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:24:57 chunky imp animate job=7eeff09d-9175-4e30-8cb3-93106bcd4d8e status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:31:03 chunky imp animate job=41d66c7b-5fed-42ff-99e8-de0be7ea46a8 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:33:20 chunky imp animate job=b32f89c4-6d73-42a7-9b6b-ce576a6f8a84 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:35:59 chunky merchant2 animate job=3862c947-46d8-4763-8b9b-d8091da2c4b4 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:39:09 chunky dryad animate job=c607060c-abd8-4bba-9d29-a461ce5e3899 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:42:55 chunky skeleton2 animate job=b80324ed-2a24-4865-92d2-131ae2b62fb6 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:46:36 chunky scholar3 animate job=ba4cd621-19a6-4b3e-9e54-c0bfbecf7e2d status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:50:57 chunky innkeeper animate job=154cae27-c93f-4c4f-8cbe-84b62bdd0013 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 10:58:12 chunky zombie animate job=3e7b0061-99ae-4031-91ce-e04d86f5a0d7 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:01:40 chunky gravelord3 animate job=8e8d4c68-4dc5-40f7-a210-cef5c2029398 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:03:43 chunky merchant2 animate job=7c98dc23-280a-40b8-829d-8a3bb34f5d53 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:08:34 chunky dryad animate job=c0214686-0781-4cee-a1b4-c9b9dd831a30 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:12:03 chunky skeleton2 animate job=99b2271b-1b48-4cec-92db-0f9e4e24e7d2 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:18:07 chunky innkeeper animate job=9e90786f-5407-44d9-9c5d-5ebfd202b575 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:21:01 chunky scholar3 animate job=3acf34a7-ba9c-4842-b950-ad3acd8e1031 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:24:55 chunky zombie animate job=a3c49225-a128-4cfd-85a2-0eaa5dc1e585 status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:29:01 chunky gravelord3 animate job=6ef90a2b-7051-4d5f-8bde-4f1bc447a3bb status=completed {"type": "generations", "generations": 1.0}
+2026-09-30 11:36:52 chunky gravelord3 animate job=21082266-41b8-47ee-b809-979317958198 status=completed {"type": "generations", "generations": 1.0}

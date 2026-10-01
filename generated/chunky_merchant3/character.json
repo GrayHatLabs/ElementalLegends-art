@@ -1,0 +1,38 @@
+{
+  "id": "30564dd7-c8b6-442a-b9a9-5524eaad5afa",
+  "name": "short fat merchant shopkeeper with a big head and ...",
+  "state_name": "Idle",
+  "prompt": "short fat merchant shopkeeper with a big head and a big round belly, brown flat cap, small black mustache, white shirt, long brown apron, brown trousers, chunky SNES RPG villager",
+  "size": {
+    "width": 36,
+    "height": 36
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:49:55.004429+00:00",
+  "updated_at": "2026-09-30T15:51:02.406453+00:00",
+  "animation_count": 0,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/30564dd7-c8b6-442a-b9a9-5524eaad5afa/rotations/south.png?t=1790783462",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/30564dd7-c8b6-442a-b9a9-5524eaad5afa/rotations/west.png?t=1790783462",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/30564dd7-c8b6-442a-b9a9-5524eaad5afa/rotations/east.png?t=1790783462",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/30564dd7-c8b6-442a-b9a9-5524eaad5afa/rotations/north.png?t=1790783462",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "c65fd888-2275-49ca-a435-a7a0cf6d9fa8",
+  "skeletons": null,
+  "animations": []
+}

@@ -1,0 +1,9 @@
+{
+  "tileset_id": "b7a88632-a8bd-438d-ba7f-0a673276a200",
+  "lower": "clear calm blue pond water with small light ripple highlights, SNES Zelda A Link to the Past water, not neon",
+  "upper": "rich medium green grass field with scattered short darker green grass tufts, gentle shading, SNES Zelda A Link to the Past overworld grass, not pale, not neon",
+  "size": "32",
+  "transition": "grassy bank edge with a thin darker shoreline",
+  "color_image": "..\\generated\\palettes\\theme0_water.png",
+  "transition_size": "0.25"
+}

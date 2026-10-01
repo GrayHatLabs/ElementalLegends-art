@@ -1,0 +1,11 @@
+{
+  "tileset_id": "73f013c5-5f9b-451d-ad14-023cddf2533b",
+  "lower": "warm honey-brown wooden plank floor of long horizontal boards with thin dark seams and tiny nail dots, cosy house interior, gentle shading, SNES Zelda A Link to the Past style house interior floor, not neon",
+  "upper": "raised interior house wall seen from above, half-timbered tudor wall top: a grid of thick dark brown wooden timber beams with small cream plaster panels between them, wood grain on the beams, cosy cottage interior, SNES Zelda A Link to the Past style house interior wall, not stone, not brick, not plain",
+  "size": "32",
+  "transition": "dark wooden wainscot skirting board with a soft shadow at the base of the wall",
+  "color_image": "D:\\projects\\ElementalLegends-art\\generated\\shop_palettes\\theme10_wall.png",
+  "transition_size": "0.25",
+  "lower_base": "9b6bf03a-5fc6-4aee-a227-9e9a305c705a",
+  "upper_base": ""
+}

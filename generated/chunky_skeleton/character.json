@@ -1,0 +1,38 @@
+{
+  "id": "c37928c0-e1d2-4d80-9148-e3e52015b6e4",
+  "name": "short stocky skeleton warrior with a big skull hea...",
+  "state_name": "Idle",
+  "prompt": "short stocky skeleton warrior with a big skull head, white bones, wearing a plain grey tattered tunic and grey iron helmet, holding a small grey rusty sword, chunky SNES RPG enemy",
+  "size": {
+    "width": 36,
+    "height": 36
+  },
+  "directions": 4,
+  "created_at": "2026-09-30T15:47:41.712577+00:00",
+  "updated_at": "2026-09-30T15:48:18.325547+00:00",
+  "animation_count": 0,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/c37928c0-e1d2-4d80-9148-e3e52015b6e4/rotations/south.png?t=1790783298",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/c37928c0-e1d2-4d80-9148-e3e52015b6e4/rotations/west.png?t=1790783298",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/c37928c0-e1d2-4d80-9148-e3e52015b6e4/rotations/east.png?t=1790783298",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/c37928c0-e1d2-4d80-9148-e3e52015b6e4/rotations/north.png?t=1790783298",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "83507e4e-8442-49f2-b652-11cf9bf13c39",
+  "skeletons": null,
+  "animations": []
+}

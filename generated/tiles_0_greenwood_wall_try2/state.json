@@ -1,0 +1,9 @@
+{
+  "tileset_id": "d982ba5b-aa20-485c-866c-8acf74a9ffc5",
+  "lower": "soft meadow grass ground, mostly flat medium green with subtle lighter and darker patches and a few sparse small grass tufts, SNES Zelda A Link to the Past overworld grass",
+  "upper": "thick forest of large round tree crowns seen from directly above, big fluffy leaf clusters, bright green highlights on top, darker green shading underneath, SNES Zelda A Link to the Past trees",
+  "size": "32",
+  "transition": "tree crown shadow falling on the grass",
+  "color_image": "..\\generated\\palettes\\theme0_wall.png",
+  "transition_size": "0.25"
+}

@@ -1,0 +1,13 @@
+{
+  "character_id": "46e78cb8-3eed-4553-94f8-e4a0b4c7da14",
+  "description": "short old scholar with a big head, white hair, round spectacles, long blue-grey robe, holding an open book, chunky SNES RPG villager",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}
