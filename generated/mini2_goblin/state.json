@@ -1,0 +1,13 @@
+{
+  "character_id": "d2f5c97f-e192-4f42-a27d-9e1d83e653aa",
+  "description": "small greedy treasure goblin with a big head, green skin, long pointy ears, big nose, wide greedy grin, ragged brown tunic, carrying a big bulging brown coin sack over its shoulder with gold coins spilling out, chunky SNES RPG enemy",
+  "size": 22,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

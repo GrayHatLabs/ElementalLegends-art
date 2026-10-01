@@ -1,0 +1,90 @@
+{
+  "id": "b4601c62-fa67-4b40-976b-4bb6dd565d4d",
+  "name": "short old swamp bog witch hag with a big head, war...",
+  "state_name": "Idle",
+  "prompt": "short old swamp bog witch hag with a big head, warty green skin, long crooked nose, stringy grey hair, tall crooked floppy brown pointed hat, ragged mossy green-brown robe, holding a long wooden cauldron spoon, chunky SNES RPG villager",
+  "size": {
+    "width": 36,
+    "height": 36
+  },
+  "directions": 4,
+  "created_at": "2026-10-01T18:26:49.244728+00:00",
+  "updated_at": "2026-10-01T18:27:30.312098+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/rotations/south.png?t=1790879250",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/rotations/west.png?t=1790879250",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/rotations/east.png?t=1790879250",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/rotations/north.png?t=1790879250",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "98d1bcbc-94ec-4819-8e01-f2604395dd63",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "a6812f26-b46b-45b6-be21-f888548a4045",
+      "directions": [
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/54ce3e27-aaae-460c-a689-84bb23c512d2/north/0.png?t=1790879556",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/54ce3e27-aaae-460c-a689-84bb23c512d2/north/1.png?t=1790879556",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/54ce3e27-aaae-460c-a689-84bb23c512d2/north/2.png?t=1790879556",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/54ce3e27-aaae-460c-a689-84bb23c512d2/north/3.png?t=1790879556"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "64e4c24c-16a8-4ad1-b0ba-95d6ddee5f01",
+      "directions": [
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/d94d9d3a-1550-4b93-873a-d732b6c12a75/east/0.png?t=1790879721",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/d94d9d3a-1550-4b93-873a-d732b6c12a75/east/1.png?t=1790879721",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/d94d9d3a-1550-4b93-873a-d732b6c12a75/east/2.png?t=1790879721",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/d94d9d3a-1550-4b93-873a-d732b6c12a75/east/3.png?t=1790879721"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "70544157-f91b-4256-a09f-5d1ddfba271c",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/f72a3d73-1fc9-4736-90e1-ee5df83f494a/south/0.png?t=1790879328",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/f72a3d73-1fc9-4736-90e1-ee5df83f494a/south/1.png?t=1790879328",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/f72a3d73-1fc9-4736-90e1-ee5df83f494a/south/2.png?t=1790879328",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/b4601c62-fa67-4b40-976b-4bb6dd565d4d/animations/f72a3d73-1fc9-4736-90e1-ee5df83f494a/south/3.png?t=1790879328"
+          ]
+        }
+      ]
+    }
+  ]
+}

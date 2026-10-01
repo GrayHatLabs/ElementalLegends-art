@@ -1,0 +1,9 @@
+character 6656eba7-6113-4fe6-8caf-7e83057b099b
+fetched knight2
+knight2 animate response {"background_job_ids": ["0659cd67-78e7-428e-900a-b3c7cde6cd04"], "directions": ["south"], "animation_group_id": "ef49f2da-9159-45ef-97af-e6fa1a797835", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched knight2
+knight2 animate response {"background_job_ids": ["186c1075-3229-4bdf-8455-0ada5cd226c1"], "directions": ["north"], "animation_group_id": "4b3a8d21-9ef8-463d-811b-1b66ff6992a3", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched knight2
+knight2 animate response {"background_job_ids": ["d711aad6-f77e-47c6-92c0-74ff567032a9"], "directions": ["east"], "animation_group_id": "63efc337-258b-47fb-a34a-f359f2cfe1e8", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched knight2
+DONE knight2

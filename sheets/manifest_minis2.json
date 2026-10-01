@@ -1,0 +1,477 @@
+{
+  "sprites": {
+    "enemy_banshee": {
+      "file": "enemy_banshee.png",
+      "cell": [
+        30,
+        40
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_bear": {
+      "file": "enemy_bear.png",
+      "cell": [
+        46,
+        36
+      ],
+      "anims": {
+        "move": {
+          "row": 0,
+          "frames": 4,
+          "fps": 6
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_fairy_king": {
+      "file": "enemy_fairy_king.png",
+      "cell": [
+        14,
+        22
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_goblin": {
+      "file": "enemy_goblin.png",
+      "cell": [
+        20,
+        26
+      ],
+      "anims": {
+        "idle_down": {
+          "row": 0,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_up": {
+          "row": 1,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_side": {
+          "row": 2,
+          "frames": 1,
+          "fps": 2
+        },
+        "walk_down": {
+          "row": 3,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_up": {
+          "row": 4,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_side": {
+          "row": 5,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_knight_body": {
+      "file": "enemy_knight_body.png",
+      "cell": [
+        30,
+        34
+      ],
+      "anims": {
+        "idle_down": {
+          "row": 0,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_up": {
+          "row": 1,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_side": {
+          "row": 2,
+          "frames": 1,
+          "fps": 2
+        },
+        "walk_down": {
+          "row": 3,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_up": {
+          "row": 4,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_side": {
+          "row": 5,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_knight_head": {
+      "file": "enemy_knight_head.png",
+      "cell": [
+        16,
+        16
+      ],
+      "anims": {
+        "move": {
+          "row": 0,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_lava_golem": {
+      "file": "enemy_lava_golem.png",
+      "cell": [
+        38,
+        42
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 2
+        },
+        "move": {
+          "row": 1,
+          "frames": 4,
+          "fps": 6
+        }
+      }
+    },
+    "enemy_mimic": {
+      "file": "enemy_mimic.png",
+      "cell": [
+        26,
+        30
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 2
+        },
+        "move": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_phoenix": {
+      "file": "enemy_phoenix.png",
+      "cell": [
+        46,
+        36
+      ],
+      "anims": {
+        "move": {
+          "row": 0,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_pixie": {
+      "file": "enemy_pixie.png",
+      "cell": [
+        14,
+        16
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "enemy_raccoon": {
+      "file": "enemy_raccoon.png",
+      "cell": [
+        36,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 2
+        },
+        "move": {
+          "row": 1,
+          "frames": 4,
+          "fps": 10
+        }
+      }
+    },
+    "enemy_salamander_queen": {
+      "file": "enemy_salamander_queen.png",
+      "cell": [
+        74,
+        38
+      ],
+      "anims": {
+        "move": {
+          "row": 0,
+          "frames": 4,
+          "fps": 8
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 8
+        },
+        "stone": {
+          "row": 2,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "enemy_toad": {
+      "file": "enemy_toad.png",
+      "cell": [
+        44,
+        42
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 2
+        },
+        "attack": {
+          "row": 1,
+          "frames": 4,
+          "fps": 10
+        },
+        "full": {
+          "row": 2,
+          "frames": 2,
+          "fps": 2
+        }
+      }
+    },
+    "enemy_wisp": {
+      "file": "enemy_wisp.png",
+      "cell": [
+        16,
+        16
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "mini2_items": {
+      "file": "mini2_items.png",
+      "cell": [
+        16,
+        16
+      ],
+      "anims": {
+        "honey": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        },
+        "discount_card": {
+          "row": 1,
+          "frames": 1,
+          "fps": 1
+        },
+        "speed_charm": {
+          "row": 2,
+          "frames": 1,
+          "fps": 1
+        },
+        "mirror_charm": {
+          "row": 3,
+          "frames": 1,
+          "fps": 1
+        },
+        "stolen_sack": {
+          "row": 4,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "npc_bog_witch": {
+      "file": "npc_bog_witch.png",
+      "cell": [
+        20,
+        32
+      ],
+      "anims": {
+        "idle_down": {
+          "row": 0,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_up": {
+          "row": 1,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_side": {
+          "row": 2,
+          "frames": 1,
+          "fps": 2
+        },
+        "walk_down": {
+          "row": 3,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_up": {
+          "row": 4,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_side": {
+          "row": 5,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "npc_ogre": {
+      "file": "npc_ogre.png",
+      "cell": [
+        34,
+        42
+      ],
+      "anims": {
+        "idle_down": {
+          "row": 0,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_up": {
+          "row": 1,
+          "frames": 1,
+          "fps": 2
+        },
+        "idle_side": {
+          "row": 2,
+          "frames": 1,
+          "fps": 2
+        },
+        "walk_down": {
+          "row": 3,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_up": {
+          "row": 4,
+          "frames": 4,
+          "fps": 8
+        },
+        "walk_side": {
+          "row": 5,
+          "frames": 4,
+          "fps": 8
+        }
+      }
+    },
+    "obj_hive_tree": {
+      "file": "obj_hive_tree.png",
+      "cell": [
+        40,
+        52
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_mushroom": {
+      "file": "obj_mushroom.png",
+      "cell": [
+        16,
+        16
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "obj_phoenix_egg": {
+      "file": "obj_phoenix_egg.png",
+      "cell": [
+        16,
+        20
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 2
+        }
+      }
+    },
+    "obj_witch_hut": {
+      "file": "obj_witch_hut.png",
+      "cell": [
+        96,
+        80
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 1,
+          "fps": 1
+        }
+      }
+    },
+    "tile_quicksand": {
+      "file": "tile_quicksand.png",
+      "cell": [
+        24,
+        24
+      ],
+      "anims": {
+        "idle": {
+          "row": 0,
+          "frames": 2,
+          "fps": 2
+        }
+      }
+    }
+  }
+}

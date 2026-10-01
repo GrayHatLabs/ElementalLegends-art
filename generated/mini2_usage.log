@@ -1,0 +1,71 @@
+2026-10-01 11:54:44 mini2 mimic bitforge open {"type": "generations", "generations": 1.0}
+2026-10-01 11:54:50 mini2 bear bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 11:54:56 chunky goblin character job=e065383a-68fe-4e75-bdca-30721db15f19 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 11:55:12 chunky knight character job=fd85c75b-02f5-4cd1-9115-450a4a4474da status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 11:56:39 mimic animtext move job=22c0b3fb-9102-4040-81e5-22d0f53d2c55 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 11:57:01 chunky goblin animate job=54ee46b0-85b3-4280-9a2f-fdd893e143a6 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 11:57:53 bear animtext walk job=4162f280-02ff-47e2-9554-9da26f8665a9 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 11:58:43 chunky knight2 character job=ac6802d7-8cdb-4566-b388-59e73c6ad83e status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 11:59:14 bear animtext attack job=cb1c1f3c-6ab8-4749-8ddd-e82e503e0246 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:00:48 bear animtext attack2 job=68480f69-1fc9-4824-8006-8513077200de status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:02:32 mini2 raccoon bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:02:38 mini2 banshee bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:02:55 mini2 head bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:02 mini2 wisp bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:09 mini2 toad bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:12 mini2 fairy bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:17 mini2 golem bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:23 mini2 hive map base job=18a28615-a06e-4297-a74f-1b2bff3f200b status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:25 mini2 mushroom bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:29 mini2 salamander bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:34 mini2 phoenix bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:34 mini2 items bitforge honey {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:51 mini2 egg bitforge base {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:51 mini2 items bitforge stolen_sack {"type": "generations", "generations": 1.0}
+2026-10-01 12:03:52 mini2 hut map base job=470d2700-d3e1-4aae-a8f2-f62b721ae82d status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:04:12 mini2 items bitforge discount_card {"type": "generations", "generations": 1.0}
+2026-10-01 12:04:19 mini2 items bitforge speed_charm {"type": "generations", "generations": 1.0}
+2026-10-01 12:05:11 mini2 fairy bitforge base2 {"type": "generations", "generations": 1.0}
+2026-10-01 12:05:17 mini2 raccoon bitforge base2 {"type": "generations", "generations": 1.0}
+2026-10-01 12:05:19 mini2 salamander bitforge base2 {"type": "generations", "generations": 1.0}
+2026-10-01 12:05:28 mini2 items bitforge mirror_charm {"type": "generations", "generations": 1.0}
+2026-10-01 12:12:09 raccoon animtext run2 job=33b41247-67bd-426e-acd9-da7c8e754edd status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:14:47 banshee animtext idle job=361f5acb-5e69-4465-832a-530ec96d3e07 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:15:07 raccoon animtext run job=124a398d-0e5d-4d01-8266-69c8f4d6c62f status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:16:28 chunky knight animate job=06b9db6f-ce82-41c7-97e4-b4ac57eec8fa status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:17:30 phoenix animtext fly job=6c30b34c-5ae8-4605-ace4-6e2730971292 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:17:36 chunky goblin animate job=7fda88fb-189f-4f17-976a-d063d740468a status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:18:33 salamander animtext move job=94a65242-8bf5-4878-989b-b14be5847c58 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:19:32 golem animtext idle job=82ff6f25-6030-458f-ac2d-edf65d5dd0fd status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:19:58 chunky knight2 animate job=0659cd67-78e7-428e-900a-b3c7cde6cd04 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:20:39 banshee animtext attack job=eb88d87a-5903-42ff-9c20-f1c3ffaaf47b status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:21:12 chunky knight2 animate job=186c1075-3229-4bdf-8455-0ada5cd226c1 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:21:54 toad animtext idle job=efb0cf1c-c324-4fee-98d2-3e09e270f802 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:24:54 chunky goblin animate job=22cccf6a-6003-4c90-bf73-4fe6566ff716 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:26:41 chunky knight2 animate job=d711aad6-f77e-47c6-92c0-74ff567032a9 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:27:20 chunky ogre character job=59dcd678-8ec4-4bfb-83ae-904fdd42b690 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:27:26 wisp animtext idle job=4a15a5a8-391e-4ca8-abf8-a6d6eb8de948 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:27:35 chunky witch character job=cf742df4-82a0-432f-8f20-7712b6ab8c21 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:28:54 chunky witch animate job=bbda2346-ebca-4713-b034-45b1bd1772b9 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:30:42 chunky ogre animate job=337ddcca-911b-45c3-9921-7ed5b16f6e5d status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:31:19 salamander animtext move2 job=166d94fe-2dc3-4fef-a03d-70a7fe07af73 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:32:08 fairy animtext idle2 job=45315193-c4bf-4992-9f08-42ca11f6fa3c status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:32:39 chunky witch animate job=bd70966b-2bf0-459c-9117-de6480ccbe8d status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:33:52 chunky ogre animate job=c0ee5146-1fe7-481b-b5a4-ab5917899018 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:34:45 toad animtext attack job=2288e9f8-9af5-4f24-bb3a-4d5cb5f62ec2 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:35:08 mini2 toad bitforge full {"type": "generations", "generations": 1.0}
+2026-10-01 12:35:26 chunky witch animate job=db1fc444-b70e-4d79-816c-176ed8c9297f status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:36:33 fairy animtext idle job=aa339e9d-8f29-44d8-aea0-e38ee5e4ea11 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:36:49 chunky ogre animate job=7c003e3b-ec1d-4ac8-a27d-e84b4b497e7a status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:37:19 salamander animtext attack job=7b3ff163-76e2-4a43-a055-14594fb25f02 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:38:42 golem animtext move job=3aad6450-81cd-4cb2-87a3-a074d121791c status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:38:46 chunky ogre2 character job=1976601a-264e-469d-9d70-7dad533eaf18 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:38:56 mini2 toad bitforge base2 {"type": "generations", "generations": 1.0}
+2026-10-01 12:39:29 mini2 toad bitforge full2 {"type": "generations", "generations": 1.0}
+2026-10-01 12:39:50 chunky ogre2 animate job=79abd350-753b-4012-93b0-5bf194b2c53b status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:40:59 salamander animtext attack2 job=f9574956-8d90-44df-a01e-35fc00040c48 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:41:07 chunky ogre2 animate job=6a0866d3-ff0a-45f8-b0c2-e08d031da461 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:42:28 chunky ogre2 animate job=64e506f3-9a2c-4579-b868-f66683251314 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:43:47 mini2 salamander bitforge base3 {"type": "generations", "generations": 1.0}
+2026-10-01 12:45:03 salamander animtext attack3 job=d410b3ea-f3bf-4fb6-a7cd-fb749c4f8404 status=completed {"type": "generations", "generations": 1.0}
+2026-10-01 12:45:20 salamander animtext move3 job=7125603a-44b8-4f39-bb9d-8bd3948bef69 status=completed {"type": "generations", "generations": 1.0}

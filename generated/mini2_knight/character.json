@@ -1,0 +1,56 @@
+{
+  "id": "0fc8bbe9-0ba2-461e-ab65-a329a1252f20",
+  "name": "headless knight, NO head, an empty dark armored ne...",
+  "state_name": "Idle",
+  "prompt": "headless knight, NO head, an empty dark armored neck collar with purple smoke rising from it, broad dark black-steel plate armor, tattered dark red cape, holding a sword and a round dark shield with a red emblem, chunky SNES RPG enemy",
+  "size": {
+    "width": 44,
+    "height": 44
+  },
+  "directions": 4,
+  "created_at": "2026-10-01T17:54:26.440763+00:00",
+  "updated_at": "2026-10-01T17:55:11.555097+00:00",
+  "animation_count": 1,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/rotations/south.png?t=1790877311",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/rotations/west.png?t=1790877311",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/rotations/east.png?t=1790877311",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/rotations/north.png?t=1790877311",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "84de9a11-c8e8-43d5-abcb-fcb46ec21d8a",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "20fbd6a1-e957-41f9-b977-cc32ed1e4755",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/animations/e0dde211-79bb-42ea-b197-b9715e723025/south/0.png?t=1790878585",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/animations/e0dde211-79bb-42ea-b197-b9715e723025/south/1.png?t=1790878585",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/animations/e0dde211-79bb-42ea-b197-b9715e723025/south/2.png?t=1790878585",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/0fc8bbe9-0ba2-461e-ab65-a329a1252f20/animations/e0dde211-79bb-42ea-b197-b9715e723025/south/3.png?t=1790878585"
+          ]
+        }
+      ]
+    }
+  ]
+}

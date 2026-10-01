@@ -1,0 +1,18 @@
+character 4933c5ac-a620-4db2-938b-cf1642e34d7e
+character b4601c62-fa67-4b40-976b-4bb6dd565d4d
+fetched ogre
+ogre animate response {"background_job_ids": ["337ddcca-911b-45c3-9921-7ed5b16f6e5d"], "directions": ["south"], "animation_group_id": "c495b30b-9d05-4e80-941e-61649048ee9f", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched witch
+witch animate response {"background_job_ids": ["bbda2346-ebca-4713-b034-45b1bd1772b9"], "directions": ["south"], "animation_group_id": "70544157-f91b-4256-a09f-5d1ddfba271c", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched witch
+witch animate response {"background_job_ids": ["bd70966b-2bf0-459c-9117-de6480ccbe8d"], "directions": ["north"], "animation_group_id": "a6812f26-b46b-45b6-be21-f888548a4045", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched ogre
+ogre animate response {"background_job_ids": ["c0ee5146-1fe7-481b-b5a4-ab5917899018"], "directions": ["north"], "animation_group_id": "2ea7f4e8-4558-44cb-880a-dbdeb2557a20", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched witch
+witch animate response {"background_job_ids": ["db1fc444-b70e-4d79-816c-176ed8c9297f"], "directions": ["east"], "animation_group_id": "64e4c24c-16a8-4ad1-b0ba-95d6ddee5f01", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched ogre
+ogre animate response {"background_job_ids": ["7c003e3b-ec1d-4ac8-a27d-e84b4b497e7a"], "directions": ["east"], "animation_group_id": "b6979beb-c664-4b7d-aded-028d8d892be0", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched witch
+DONE witch
+fetched ogre
+DONE ogre

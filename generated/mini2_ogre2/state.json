@@ -1,0 +1,13 @@
+{
+  "character_id": "a8c903e1-bfae-412f-adf3-2e3f696ce4b5",
+  "description": "big friendly ogre monster merchant, huge bald head with bright green skin, two big white tusks jutting up from the lower jaw, pointy ears, big round belly, kind smile, simple brown vest, carrying a huge tall wooden-framed backpack stacked with wares, pots and rolled rugs, chunky SNES RPG villager",
+  "size": 36,
+  "proportions": {
+    "head_size": 1.3,
+    "legs_length": 0.55,
+    "arms_length": 0.9,
+    "shoulder_width": 1.7,
+    "hip_width": 1.6,
+    "type": "custom"
+  }
+}

@@ -1,0 +1,9 @@
+character a8c903e1-bfae-412f-adf3-2e3f696ce4b5
+fetched ogre2
+ogre2 animate response {"background_job_ids": ["79abd350-753b-4012-93b0-5bf194b2c53b"], "directions": ["south"], "animation_group_id": "33f92354-c70a-4a60-af59-268a724d2e8a", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched ogre2
+ogre2 animate response {"background_job_ids": ["6a0866d3-ff0a-45f8-b0c2-e08d031da461"], "directions": ["north"], "animation_group_id": "f80d6f0d-9f8c-4119-a76c-c89192972612", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched ogre2
+ogre2 animate response {"background_job_ids": ["64e506f3-9a2c-4579-b868-f66683251314"], "directions": ["east"], "animation_group_id": "d0e602f3-b850-40e4-8d61-3d90f7f904f2", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched ogre2
+DONE ogre2

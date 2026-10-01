@@ -1,0 +1,20 @@
+character 0fc8bbe9-0ba2-461e-ab65-a329a1252f20
+character d2f5c97f-e192-4f42-a27d-9e1d83e653aa
+saved generated\mini2_mimic\open.png
+saved generated\mini2_bear\base.png
+fetched goblin
+goblin animate response {"background_job_ids": ["54ee46b0-85b3-4280-9a2f-fdd893e143a6"], "directions": ["south"], "animation_group_id": "92bb7506-aa68-4abd-ad2c-c13d39f1d388", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched knight
+knight animate response {"background_job_ids": ["06b9db6f-ce82-41c7-97e4-b4ac57eec8fa"], "directions": ["south"], "animation_group_id": "20fbd6a1-e957-41f9-b977-cc32ed1e4755", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+saved 5 frames move
+DONE mimic
+fetched goblin
+goblin animate response {"background_job_ids": ["7fda88fb-189f-4f17-976a-d063d740468a"], "directions": ["north"], "animation_group_id": "10d9ab47-2286-486a-8b29-49963be890b6", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+saved 5 frames walk
+saved 5 frames attack
+DONE bear
+FAIL knight <HTTPError 520: '<none>'>
+fetched goblin
+goblin animate response {"background_job_ids": ["22cccf6a-6003-4c90-bf73-4fe6566ff716"], "directions": ["east"], "animation_group_id": "5ae048ac-b2e6-48f6-8675-e903e261c6cf", "status": "processing", "enhanced_prompt": null, "enhance_usage": null}
+fetched goblin
+DONE goblin

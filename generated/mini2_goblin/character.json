@@ -1,0 +1,90 @@
+{
+  "id": "d2f5c97f-e192-4f42-a27d-9e1d83e653aa",
+  "name": "small greedy treasure goblin with a big head, gree...",
+  "state_name": "Idle",
+  "prompt": "small greedy treasure goblin with a big head, green skin, long pointy ears, big nose, wide greedy grin, ragged brown tunic, carrying a big bulging brown coin sack over its shoulder with gold coins spilling out, chunky SNES RPG enemy",
+  "size": {
+    "width": 32,
+    "height": 32
+  },
+  "directions": 4,
+  "created_at": "2026-10-01T17:54:26.497339+00:00",
+  "updated_at": "2026-10-01T17:54:55.402207+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/rotations/south.png?t=1790877295",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/rotations/west.png?t=1790877295",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/rotations/east.png?t=1790877295",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/rotations/north.png?t=1790877295",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "ff48c4b4-c61b-4e75-af10-e775a47e8695",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "10d9ab47-2286-486a-8b29-49963be890b6",
+      "directions": [
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/5cc9c687-2da7-4f7d-bca4-099f06bdc021/north/0.png?t=1790878650",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/5cc9c687-2da7-4f7d-bca4-099f06bdc021/north/1.png?t=1790878650",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/5cc9c687-2da7-4f7d-bca4-099f06bdc021/north/2.png?t=1790878650",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/5cc9c687-2da7-4f7d-bca4-099f06bdc021/north/3.png?t=1790878650"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "92bb7506-aa68-4abd-ad2c-c13d39f1d388",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/2d64ab49-cedf-46cd-ab75-bc68137bdaa7/south/0.png?t=1790877421",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/2d64ab49-cedf-46cd-ab75-bc68137bdaa7/south/1.png?t=1790877421",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/2d64ab49-cedf-46cd-ab75-bc68137bdaa7/south/2.png?t=1790877421",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/2d64ab49-cedf-46cd-ab75-bc68137bdaa7/south/3.png?t=1790877421"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "5ae048ac-b2e6-48f6-8675-e903e261c6cf",
+      "directions": [
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/0cc6e03e-7f23-4ea4-b3e9-46d14e479300/east/0.png?t=1790879091",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/0cc6e03e-7f23-4ea4-b3e9-46d14e479300/east/1.png?t=1790879091",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/0cc6e03e-7f23-4ea4-b3e9-46d14e479300/east/2.png?t=1790879091",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/d2f5c97f-e192-4f42-a27d-9e1d83e653aa/animations/0cc6e03e-7f23-4ea4-b3e9-46d14e479300/east/3.png?t=1790879091"
+          ]
+        }
+      ]
+    }
+  ]
+}

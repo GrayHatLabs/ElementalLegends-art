@@ -1,0 +1,13 @@
+{
+  "character_id": "6656eba7-6113-4fe6-8caf-7e83057b099b",
+  "description": "big headless knight, NO head, an empty dark armored neck collar, broad dark black-steel plate armor with big pauldrons, tattered dark red cape, holding a sword in one hand and a round dark shield with a red emblem in the other, chunky SNES RPG enemy",
+  "size": 36,
+  "proportions": {
+    "head_size": 1.6,
+    "legs_length": 0.55,
+    "arms_length": 0.85,
+    "shoulder_width": 1.5,
+    "hip_width": 1.3,
+    "type": "custom"
+  }
+}

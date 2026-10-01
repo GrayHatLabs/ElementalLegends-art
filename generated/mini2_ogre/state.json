@@ -1,0 +1,13 @@
+{
+  "character_id": "4933c5ac-a620-4db2-938b-cf1642e34d7e",
+  "description": "big friendly wandering merchant ogre, large stocky body, tan-green skin, small tusks, kind smile, simple brown vest and trousers, carrying a huge tall wooden-framed backpack stacked with wares, pots, rolled rugs and lanterns, chunky SNES RPG villager",
+  "size": 36,
+  "proportions": {
+    "head_size": 1.3,
+    "legs_length": 0.55,
+    "arms_length": 0.9,
+    "shoulder_width": 1.7,
+    "hip_width": 1.6,
+    "type": "custom"
+  }
+}

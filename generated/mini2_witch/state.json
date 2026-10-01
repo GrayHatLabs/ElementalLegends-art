@@ -1,0 +1,13 @@
+{
+  "character_id": "b4601c62-fa67-4b40-976b-4bb6dd565d4d",
+  "description": "short old swamp bog witch hag with a big head, warty green skin, long crooked nose, stringy grey hair, tall crooked floppy brown pointed hat, ragged mossy green-brown robe, holding a long wooden cauldron spoon, chunky SNES RPG villager",
+  "size": 24,
+  "proportions": {
+    "head_size": 1.7,
+    "legs_length": 0.5,
+    "arms_length": 0.8,
+    "shoulder_width": 1.2,
+    "hip_width": 1.2,
+    "type": "custom"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "6656eba7-6113-4fe6-8caf-7e83057b099b",
+  "name": "big headless knight, NO head, an empty dark armore...",
+  "state_name": "Idle",
+  "prompt": "big headless knight, NO head, an empty dark armored neck collar, broad dark black-steel plate armor with big pauldrons, tattered dark red cape, holding a sword in one hand and a round dark shield with a red emblem in the other, chunky SNES RPG enemy",
+  "size": {
+    "width": 52,
+    "height": 52
+  },
+  "directions": 4,
+  "created_at": "2026-10-01T17:57:57.849621+00:00",
+  "updated_at": "2026-10-01T17:58:42.621111+00:00",
+  "animation_count": 3,
+  "template_id": "mannequin",
+  "view": "low top-down",
+  "status": "completed",
+  "rotation_urls": {
+    "south": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/rotations/south.png?t=1790877522",
+    "west": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/rotations/west.png?t=1790877522",
+    "east": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/rotations/east.png?t=1790877522",
+    "north": "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/rotations/north.png?t=1790877522",
+    "south-east": null,
+    "north-east": null,
+    "north-west": null,
+    "south-west": null
+  },
+  "style_settings": {
+    "detail": "low detail",
+    "outline": "single color black outline",
+    "shading": "basic shading"
+  },
+  "guidance": null,
+  "ai_freedom": null,
+  "tags": [],
+  "group_id": "9033bec4-e649-4c48-bbea-252bd0867c41",
+  "skeletons": null,
+  "animations": [
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "ef49f2da-9159-45ef-97af-e6fa1a797835",
+      "directions": [
+        {
+          "direction": "south",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/8756b582-3ab9-42e4-a5e9-c352eac881c6/south/0.png?t=1790878798",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/8756b582-3ab9-42e4-a5e9-c352eac881c6/south/1.png?t=1790878798",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/8756b582-3ab9-42e4-a5e9-c352eac881c6/south/2.png?t=1790878798",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/8756b582-3ab9-42e4-a5e9-c352eac881c6/south/3.png?t=1790878798"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "4b3a8d21-9ef8-463d-811b-1b66ff6992a3",
+      "directions": [
+        {
+          "direction": "north",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/f68eb488-5301-4ed4-92d2-a138c3588f9c/north/0.png?t=1790878870",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/f68eb488-5301-4ed4-92d2-a138c3588f9c/north/1.png?t=1790878870",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/f68eb488-5301-4ed4-92d2-a138c3588f9c/north/2.png?t=1790878870",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/f68eb488-5301-4ed4-92d2-a138c3588f9c/north/3.png?t=1790878870"
+          ]
+        }
+      ]
+    },
+    {
+      "animation_type": "custom-walking",
+      "display_name": "walking",
+      "animation_group_id": "63efc337-258b-47fb-a34a-f359f2cfe1e8",
+      "directions": [
+        {
+          "direction": "east",
+          "frame_count": 4,
+          "frames": [
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/be0513c0-6f39-4fcc-b646-23013ed3ad4f/east/0.png?t=1790879196",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/be0513c0-6f39-4fcc-b646-23013ed3ad4f/east/1.png?t=1790879196",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/be0513c0-6f39-4fcc-b646-23013ed3ad4f/east/2.png?t=1790879196",
+            "https://backblaze.pixellab.ai/file/pixellab-characters/08e291be-b181-49b6-b5e5-65cf391b3a73/6656eba7-6113-4fe6-8caf-7e83057b099b/animations/be0513c0-6f39-4fcc-b646-23013ed3ad4f/east/3.png?t=1790879196"
+          ]
+        }
+      ]
+    }
+  ]
+}
