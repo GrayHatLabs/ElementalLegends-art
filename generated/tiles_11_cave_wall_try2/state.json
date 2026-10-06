@@ -1,0 +1,11 @@
+{
+  "tileset_id": "d56be94e-9e17-434c-9b9c-a29b04b0d646",
+  "lower": "uneven natural cave ground of packed brown earth with irregular darker dirt patches and a few small scattered round grey pebbles, organic, no pattern, no tiles, SNES Zelda A Link to the Past style cave floor",
+  "upper": "craggy natural cave rock mass seen from above, large irregular rounded brown-grey rock lumps with light tops and bluish-grey shadowed cracks between them, organic boulder shapes, no bricks, no tiles, no grid, SNES Zelda A Link to the Past style cave",
+  "size": "32",
+  "transition": "dark bluish-grey shadow and rough rock edge at the foot of the cave wall",
+  "color_image": "generated/polish_oct/pal_wall.png",
+  "transition_size": "0.5",
+  "lower_base": "",
+  "upper_base": ""
+}

@@ -385,6 +385,52 @@
         "deco": "generated/shop_palettes/theme10_deco.png"
       },
       "notes": "Indoor theme: no water/lava set (importer treats a missing water atlas as None)."
+    },
+    {
+      "index": 11,
+      "name": "CAVE",
+      "wall": {
+        "file": "theme11_wall.png",
+        "lower": "floor (walkable)",
+        "upper": "wall (solid)",
+        "lower_prompt": "uneven natural cave ground of packed brown earth with irregular darker dirt patches and a few small scattered round grey pebbles, organic, no pattern, no tiles, SNES Zelda A Link to the Past style cave floor",
+        "upper_prompt": "craggy natural cave rock mass seen from above, large irregular rounded brown-grey rock lumps with light tops and bluish-grey shadowed cracks between them, organic boulder shapes, no bricks, no tiles, no grid, SNES Zelda A Link to the Past style cave",
+        "transition_prompt": "dark bluish-grey shadow and rough rock edge at the foot of the cave wall",
+        "floor_tile_index": 0,
+        "wall_tile_index": 15,
+        "postprocess": "colours remapped to an earthy brown-grey cave palette and floor pixels replaced by a seamless code-drawn packed-dirt/pebble texture (tools/polish_oct.py build_cave_sets)"
+      },
+      "water": {
+        "file": "theme11_water.png",
+        "lower": "water (not walkable)",
+        "upper": "floor (walkable)",
+        "lower_prompt": "dark still underground cave pool water, deep blue-black water with faint teal ripple highlights, clearly liquid, SNES Zelda A Link to the Past style water, not neon",
+        "upper_prompt": "uneven natural cave ground of packed brown earth with irregular darker dirt patches and a few small scattered round grey pebbles, organic, no pattern, no tiles, SNES Zelda A Link to the Past style cave floor",
+        "transition_prompt": "wet dark rock bank edge around the pool",
+        "liquid_tile_index": 0,
+        "floor_tile_index": 15,
+        "postprocess": "colours remapped to dark underground-pool blues, then tools/floorswap.py"
+      },
+      "decos": {
+        "stalagmite": {
+          "file": "theme11_deco_stalagmite.png",
+          "prompt": "single brown-grey rock stalagmite cone rising from the cave floor, rounded pointed tip, a few small rocks at its base, muted earthy colors, single object",
+          "source": "code-drawn (tools/polish_oct.py draw_stalagmite)"
+        },
+        "crystals": {
+          "file": "theme11_deco_crystals.png",
+          "prompt": "small cluster of three glowing pale blue crystal shards growing out of a small dark rock, soft blue glow, single object"
+        },
+        "pebbles": {
+          "file": "theme11_deco_pebbles.png",
+          "prompt": "small loose cluster of four round grey-brown pebbles and small stones lying on the ground, muted colors, single object",
+          "source": "code-drawn (tools/polish_oct.py draw_pebbles)"
+        }
+      },
+      "palette_images": {
+        "wall": "generated/polish_oct/pal_wall.png",
+        "deco": "generated/polish_oct/pal_deco.png"
+      }
     }
   ]
 }

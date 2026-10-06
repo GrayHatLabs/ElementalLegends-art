@@ -1,0 +1,25 @@
+2026-10-06 16:00:57 polish bitforge sal {"type": "generations", "generations": 1.0}
+2026-10-06 16:00:58 polish bitforge bear {"type": "generations", "generations": 1.0}
+2026-10-06 16:00:59 polish bitforge bear2 {"type": "generations", "generations": 1.0}
+2026-10-06 16:01:03 polish bitforge toad3 {"type": "generations", "generations": 1.0}
+2026-10-06 16:01:08 polish bitforge sal3 {"type": "generations", "generations": 1.0}
+2026-10-06 16:01:22 polish bitforge bear3 {"type": "generations", "generations": 1.0}
+2026-10-06 16:01:52 polish bitforge sal2 {"type": "generations", "generations": 1.0}
+2026-10-06 16:01:53 polish bitforge toad2 {"type": "generations", "generations": 1.0}
+2026-10-06 16:01:58 polish bitforge toad {"type": "generations", "generations": 1.0}
+2026-10-06 16:08:31 polish animtext bear_attack job=3fd76c19-c6d4-412c-a874-cfd97fe68760 status=completed {"type": "generations", "generations": 1.0}
+2026-10-06 16:08:38 polish animtext sal_attack job=37be99e8-c7da-41a4-92d8-247a2837df45 status=completed {"type": "generations", "generations": 1.0}
+2026-10-06 16:08:42 polish animtext bear_move job=890d5c91-7853-4bdb-99ce-a5d22d4ab342 status=completed {"type": "generations", "generations": 1.0}
+2026-10-06 16:09:27 polish animtext sal_move job=857211c0-881a-4b50-8f52-ee29d0bfc0cb status=completed {"type": "generations", "generations": 1.0}
+2026-10-06 16:11:16 polish bitforge toad_full {"type": "generations", "generations": 1.0}
+2026-10-06 16:11:47 polish animtext sal_move2 job=b19851f3-51ee-4efc-9158-632b4d4d873b status=completed {"type": "generations", "generations": 1.0}
+2026-10-06 16:16:26 polish bitforge deco_pebbles_0 {"type": "generations", "generations": 1.0}
+2026-10-06 16:16:30 polish bitforge deco_stalagmite_1 {"type": "generations", "generations": 1.0}
+2026-10-06 16:16:30 polish bitforge deco_crystals_1 {"type": "generations", "generations": 1.0}
+2026-10-06 16:16:33 polish bitforge deco_stalagmite_0 {"type": "generations", "generations": 1.0}
+2026-10-06 16:16:42 polish bitforge deco_crystals_0 {"type": "generations", "generations": 1.0}
+2026-10-06 16:17:33 polish bitforge deco_pebbles_1 {"type": "generations", "generations": 1.0}
+2026-10-06 16:18:14 polish bitforge deco_pebbles_3 {"type": "generations", "generations": 1.0}
+2026-10-06 16:18:14 polish bitforge deco_stalagmite_2 {"type": "generations", "generations": 1.0}
+2026-10-06 16:18:36 polish bitforge deco_stalagmite_3 {"type": "generations", "generations": 1.0}
+2026-10-06 16:18:57 polish bitforge deco_pebbles_2 {"type": "generations", "generations": 1.0}

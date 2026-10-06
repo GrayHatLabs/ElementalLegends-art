@@ -1,0 +1,11 @@
+{
+  "tileset_id": "8d9b6571-7ea0-4e14-bbdf-f6fc49aa81b9",
+  "lower": "dark still underground cave pool water, deep blue-black water with faint teal ripple highlights, clearly liquid, SNES Zelda A Link to the Past style water, not neon",
+  "upper": "uneven natural cave ground of packed brown earth with irregular darker dirt patches and a few small scattered round grey pebbles, organic, no pattern, no tiles, SNES Zelda A Link to the Past style cave floor",
+  "size": "32",
+  "transition": "wet dark rock bank edge around the pool",
+  "color_image": "",
+  "transition_size": "0.25",
+  "lower_base": "",
+  "upper_base": "fda715bf-f1c9-4a0b-972e-67d5c425defd"
+}

@@ -22,8 +22,8 @@
     "enemy_bear": {
       "file": "enemy_bear.png",
       "cell": [
-        46,
-        36
+        52,
+        64
       ],
       "anims": {
         "move": {
@@ -232,8 +232,8 @@
     "enemy_salamander_queen": {
       "file": "enemy_salamander_queen.png",
       "cell": [
-        74,
-        38
+        62,
+        32
       ],
       "anims": {
         "move": {
@@ -256,8 +256,8 @@
     "enemy_toad": {
       "file": "enemy_toad.png",
       "cell": [
-        44,
-        42
+        56,
+        40
       ],
       "anims": {
         "idle": {
